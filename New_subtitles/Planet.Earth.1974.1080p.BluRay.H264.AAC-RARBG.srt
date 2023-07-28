@@ -1,0 +1,3924 @@
+1
+00:00:27,360 --> 00:00:31,113
+<i>This is the 22nd century,
+the land renewed.</i>
+
+2
+00:00:31,447 --> 00:00:33,324
+<i>The air and water pure again.</i>
+
+3
+00:00:34,158 --> 00:00:36,035
+<i>The conflicts of the past are gone.</i>
+
+4
+00:00:36,536 --> 00:00:39,830
+<i>It is a new Earth.
+New peoples and new customs.</i>
+
+5
+00:00:40,540 --> 00:00:42,583
+<i>In some places, bizarre savagery.</i>
+
+6
+00:00:43,000 --> 00:00:44,961
+<i>In others, advanced cities.</i>
+
+7
+00:00:45,545 --> 00:00:47,838
+<i>Everywhere new challenge
+and new adventure.</i>
+
+8
+00:00:48,339 --> 00:00:50,633
+<i>And this is also the story
+of Dylan Hunt.</i>
+
+9
+00:00:51,259 --> 00:00:54,762
+<i>Lost in 1979
+in a suspended animation accident.</i>
+
+10
+00:00:55,930 --> 00:00:59,642
+<i>Over a century and a half later
+in the year 2133,</i>
+
+11
+00:01:00,059 --> 00:01:04,313
+<i>he was found and awakened by
+the people of this city called PAX.</i>
+
+12
+00:01:04,647 --> 00:01:05,481
+<i>Peace.</i>
+
+13
+00:01:06,065 --> 00:01:08,734
+<i>The one place on Earth which
+escaped the final conflict</i>
+
+14
+00:01:08,901 --> 00:01:10,111
+<i>of the 20th century.</i>
+
+15
+00:01:10,987 --> 00:01:14,031
+<i>The one place on Earth
+where civilization did not perish.</i>
+
+16
+00:01:15,074 --> 00:01:16,576
+<i>Dylan Hunt is one of them now.</i>
+
+17
+00:01:16,993 --> 00:01:21,330
+<i>Leader of a PAX Science team
+exploring a much changed world.</i>
+
+18
+00:01:21,747 --> 00:01:24,292
+<i>Part of the PAX dream
+of rebuilding on Earth,</i>
+
+19
+00:01:24,458 --> 00:01:26,586
+<i>a new and wiser civilization.</i>
+
+20
+00:01:27,920 --> 00:01:29,755
+<i>Their mission is mankind.</i>
+
+21
+00:01:30,214 --> 00:01:31,340
+<i>Rebirth of...</i>
+
+22
+00:01:32,174 --> 00:01:33,092
+<i>planet Earth.</i>
+
+23
+00:02:20,598 --> 00:02:23,267
+Dylan Hunt, log report
+to the PAX Council.
+
+24
+00:02:24,101 --> 00:02:26,604
+Per instructions,
+we were escorting Pater Kimbridge
+
+25
+00:02:26,771 --> 00:02:28,731
+on a survey
+which has confirmed
+
+26
+00:02:28,898 --> 00:02:30,858
+that Central California
+is now an inland sea.
+
+27
+00:02:31,567 --> 00:02:34,362
+Population along the shore
+is a handsome racial mixture.
+
+28
+00:02:34,945 --> 00:02:36,113
+Illiterate but intelligent.
+
+29
+00:02:36,864 --> 00:02:39,075
+Although the land remains fertile,
+famine is common.
+
+30
+00:02:39,325 --> 00:02:41,202
+Their primary need
+from us is education
+
+31
+00:02:41,369 --> 00:02:42,870
+and agricultural techniques.
+
+32
+00:02:43,454 --> 00:02:45,414
+With those facts determined
+we headed homeward
+
+33
+00:02:45,581 --> 00:02:47,166
+<i>when the ambush occurred</i>
+
+34
+00:02:47,750 --> 00:02:48,918
+<i>They were Kreegs.</i>
+
+35
+00:02:49,126 --> 00:02:51,879
+<i>That mutated form of human
+capable of understanding</i>
+
+36
+00:02:52,046 --> 00:02:54,215
+<i>only machinery and warfare.</i>
+
+37
+00:02:54,674 --> 00:02:56,550
+<i>It was clear that
+they recognized who we were</i>
+
+38
+00:02:56,717 --> 00:02:58,052
+<i>and wanted us alive.</i>
+
+39
+00:02:58,260 --> 00:02:59,553
+<i>Possibly because they've heard that</i>
+
+40
+00:02:59,720 --> 00:03:02,556
+<i>underground subshuttle tubes
+honeycomb the earth</i>
+
+41
+00:03:02,848 --> 00:03:05,059
+<i>and that only we of PAX,
+know the secret.</i>
+
+42
+00:03:06,560 --> 00:03:09,563
+<i>Slowing our progress was
+the age of Pater Kimbridge,</i>
+
+43
+00:03:09,730 --> 00:03:11,065
+<i>his rapid exhaustion.</i>
+
+44
+00:03:11,232 --> 00:03:13,984
+<i>Each of us in turn tried
+to divert the Kreeg vehicle</i>
+
+45
+00:03:14,151 --> 00:03:16,404
+<i>while the others moved
+Kimbridge nearer and nearer</i>
+
+46
+00:03:16,570 --> 00:03:19,448
+<i>a subshuttle tube entrance,
+where we hoped to escape.</i>
+
+47
+00:03:23,035 --> 00:03:24,662
+There he is, over there.
+
+48
+00:03:33,087 --> 00:03:35,881
+Team, switch to XY tranquilizers.
+
+49
+00:03:36,424 --> 00:03:37,925
+Our standard hypos
+aren't stopping them.
+
+50
+00:03:38,968 --> 00:03:40,511
+Message received,
+we're reloading.
+
+51
+00:03:43,764 --> 00:03:44,974
+Isiah, divert them.
+
+52
+00:03:57,778 --> 00:03:58,654
+Isiah.
+
+53
+00:04:02,908 --> 00:04:04,660
+That thing is from your century?
+
+54
+00:04:04,827 --> 00:04:06,370
+Yeah, we call them automobiles.
+
+55
+00:04:06,537 --> 00:04:08,038
+It's fantastic
+that it's still running.
+
+56
+00:04:08,205 --> 00:04:11,792
+It's a late 1970s chassis with
+a converted wood gas fuel system.
+
+57
+00:04:26,265 --> 00:04:27,057
+There.
+
+58
+00:04:46,952 --> 00:04:48,245
+No, get the Pater.
+
+59
+00:05:07,556 --> 00:05:08,182
+There.
+
+60
+00:05:17,191 --> 00:05:18,150
+Dylan, don't.
+
+61
+00:05:31,956 --> 00:05:32,748
+Keep down.
+
+62
+00:05:32,915 --> 00:05:34,667
+They won't try to take us
+alive anymore. Go ahead.
+
+63
+00:05:55,896 --> 00:05:56,605
+Isiah.
+
+64
+00:06:19,920 --> 00:06:21,714
+Lock it. Hurry.
+
+65
+00:06:35,185 --> 00:06:36,061
+Looks bad.
+
+66
+00:06:37,229 --> 00:06:38,105
+He's alive.
+
+67
+00:06:58,208 --> 00:06:59,585
+Hurry, it's still here.
+
+68
+00:07:25,444 --> 00:07:27,404
+Team 21, arriving in four minutes.
+
+69
+00:07:27,571 --> 00:07:29,114
+You'll have a medical team
+standing by?
+
+70
+00:07:29,406 --> 00:07:30,741
+<i>And an operating room.</i>
+
+71
+00:07:31,283 --> 00:07:33,702
+<i>You say you saw signs of
+still other Kreegs out there?</i>
+
+72
+00:07:33,869 --> 00:07:35,162
+<i>Perhaps a whole expedition?</i>
+
+73
+00:07:35,412 --> 00:07:38,332
+Affirmative, suggest you cut off
+tube power at that point.
+
+74
+00:07:38,916 --> 00:07:40,584
+We can't get let them
+get hold of a subshuttle.
+
+75
+00:07:41,168 --> 00:07:43,337
+<i>Agreed. Power is terminated.</i>
+
+76
+00:07:59,561 --> 00:08:01,397
+- How is he?
+- There's definite heart damage.
+
+77
+00:08:01,563 --> 00:08:03,816
+You can close the medikit now,
+I've done all I can with it.
+
+78
+00:08:09,571 --> 00:08:10,531
+And with your mind?
+
+79
+00:08:19,248 --> 00:08:19,999
+Try.
+
+80
+00:09:03,500 --> 00:09:05,169
+He's slipping away. He's dying.
+
+81
+00:09:24,688 --> 00:09:25,898
+Isiah, please..
+
+82
+00:09:26,231 --> 00:09:27,441
+Ah, let the savage pray.
+
+83
+00:09:28,817 --> 00:09:30,527
+It'll help as much as
+anything I can do here.
+
+84
+00:10:10,400 --> 00:10:11,735
+<i>Concluding log report.</i>
+
+85
+00:10:12,361 --> 00:10:14,780
+<i>If Kimbridge dies,
+the responsibility's mine.</i>
+
+86
+00:10:15,656 --> 00:10:19,034
+And our return to PAX
+has made the burden no easier.
+
+87
+00:10:19,201 --> 00:10:20,786
+<i>To me, Kimbridge is PAX.</i>
+
+88
+00:10:21,829 --> 00:10:23,705
+<i>Its grace, its warmth,</i>
+
+89
+00:10:24,123 --> 00:10:26,250
+its dreams of helping Earth
+rebuild again.
+
+90
+00:10:27,835 --> 00:10:31,004
+He is the man who discovered
+my body in suspended animation.
+
+91
+00:10:32,464 --> 00:10:34,383
+Whose skill brought me to life again.
+
+92
+00:10:35,801 --> 00:10:37,261
+Whose wisdom helped me to understand
+
+93
+00:10:37,427 --> 00:10:40,264
+that the best of my own
+20th century is not dead.
+
+94
+00:10:41,431 --> 00:10:45,644
+That Earth is still my home,
+it's people still my people.
+
+95
+00:10:46,311 --> 00:10:48,272
+Dylan, Baylok needs you.
+
+96
+00:10:48,438 --> 00:10:50,190
+Pater Kimbridge
+is coming out of surgery.
+
+97
+00:10:53,068 --> 00:10:53,694
+Dylan.
+
+98
+00:10:58,824 --> 00:10:59,575
+How is he?
+
+99
+00:10:59,741 --> 00:11:01,952
+Well, the bullet sheared of a section
+of the pulmonary artery.
+
+100
+00:11:02,119 --> 00:11:03,412
+He can last only a couple of days
+
+101
+00:11:03,579 --> 00:11:04,997
+without bio-plastic prosthesis.
+
+102
+00:11:05,205 --> 00:11:07,749
+Now, the only surgeon qualified
+in that is a Dr. Rabans who--
+
+103
+00:11:07,916 --> 00:11:09,668
+He's in the eastern
+Mediterranean area.
+
+104
+00:11:10,335 --> 00:11:12,045
+How far is he
+from a subshuttle station?
+
+105
+00:11:12,421 --> 00:11:14,965
+Uh, two weeks at least.
+There's a slim second choice.
+
+106
+00:11:15,132 --> 00:11:16,925
+A Dr. Connor who trained under Rabans.
+
+107
+00:11:17,092 --> 00:11:17,759
+Jonathan?
+
+108
+00:11:17,968 --> 00:11:20,137
+But he disappeared on a team mission
+about a year ago.
+
+109
+00:11:20,429 --> 00:11:22,097
+We've made attempts
+to locate him, of course.
+
+110
+00:11:22,681 --> 00:11:24,641
+- Where was he last seen?
+- Back the way we came,
+
+111
+00:11:24,808 --> 00:11:26,560
+several hundred kilometers further on.
+
+112
+00:11:27,269 --> 00:11:29,021
+Our equipment's waiting
+at the subshuttle.
+
+113
+00:11:38,572 --> 00:11:40,032
+<i>Log entry 324.</i>
+
+114
+00:11:40,991 --> 00:11:42,743
+<i>As the first PAX team available,</i>
+
+115
+00:11:42,993 --> 00:11:44,870
+<i>we are headed for what seems
+our best chance</i>
+
+116
+00:11:45,037 --> 00:11:46,663
+<i>of finding Dr. Connor alive.</i>
+
+117
+00:11:47,664 --> 00:11:50,417
+<i>Hope that the Kreegs are moving
+in another direction by now.</i>
+
+118
+00:11:51,210 --> 00:11:53,420
+<i>Our destination is
+an unexplored region out of which</i>
+
+119
+00:11:53,587 --> 00:11:57,216
+<i>have come stories of
+a strange Amazon society.</i>
+
+120
+00:11:57,382 --> 00:12:00,469
+<i>Where males are bought and
+sold like captive animals.</i>
+
+121
+00:12:09,353 --> 00:12:13,357
+Women's lib.
+Or women's lib gone mad?
+
+122
+00:12:18,487 --> 00:12:22,282
+Officer Smythe,
+you call Dr. Connor "Jonathan."
+
+123
+00:12:23,033 --> 00:12:23,951
+How well did you know him?
+
+124
+00:12:24,618 --> 00:12:27,079
+I mean, did you know anything
+not on the tapes
+
+125
+00:12:27,246 --> 00:12:28,163
+that might be useful to us?
+
+126
+00:12:29,164 --> 00:12:32,376
+He did once mention he'd heard of
+some plant mutations in that area.
+
+127
+00:12:33,210 --> 00:12:34,962
+He was interested
+in the medical properties
+
+128
+00:12:35,128 --> 00:12:37,506
+of any new plants,
+found after the Great Conflict.
+
+129
+00:12:38,131 --> 00:12:40,425
+That could explain how he got
+separated from his team.
+
+130
+00:12:42,469 --> 00:12:43,595
+That's our one hope.
+
+131
+00:12:44,513 --> 00:12:47,641
+He became separated
+and was captured by those women.
+
+132
+00:12:48,308 --> 00:12:51,311
+The tapes list several reports
+of men being taken captives.
+
+133
+00:12:51,645 --> 00:12:53,939
+Hands bound, led by a rope
+around the neck.
+
+134
+00:12:54,648 --> 00:12:56,817
+Pater Kimbridge
+has only 60 hours left.
+
+135
+00:12:57,234 --> 00:12:58,694
+Just finding Jonathan in that time
+
+136
+00:12:58,860 --> 00:13:00,487
+is once chance in a thousand.
+
+137
+00:13:03,156 --> 00:13:04,866
+There's one way we can
+cut those odds a little.
+
+138
+00:13:07,786 --> 00:13:09,288
+We're going to split the team.
+
+139
+00:13:10,122 --> 00:13:11,748
+Baylok and Isiah
+will take the subshuttle
+
+140
+00:13:11,915 --> 00:13:14,209
+to the old power station
+that's listed in the diagrams.
+
+141
+00:13:14,543 --> 00:13:16,128
+It's near the heart of the area.
+
+142
+00:13:16,378 --> 00:13:18,964
+Hopefully near a main village
+or a town of some sort.
+
+143
+00:13:19,464 --> 00:13:21,842
+You'll immediately
+identify yourselves.
+
+144
+00:13:22,175 --> 00:13:25,095
+Try to explain to them
+who and what PAX is.
+
+145
+00:13:25,637 --> 00:13:27,222
+And why they have a lot to gain
+and nothing to lose
+
+146
+00:13:27,389 --> 00:13:28,473
+by co-operating with us.
+
+147
+00:13:29,141 --> 00:13:32,686
+As you say we will do, my friend,
+but, to split the team--
+
+148
+00:13:32,853 --> 00:13:33,437
+Yes, isn't that--
+
+149
+00:13:33,603 --> 00:13:37,107
+It'll give us two separate
+and different shots at our objective.
+
+150
+00:13:37,607 --> 00:13:39,735
+If yours doesn't work, ours might.
+
+151
+00:13:40,777 --> 00:13:42,455
+You'll drop us in part of the way
+
+152
+00:13:42,479 --> 00:13:44,156
+near a place where
+we can pick up some horses.
+
+153
+00:13:44,573 --> 00:13:46,700
+We'll carry no weapons
+and just one transceiver.
+
+154
+00:13:47,534 --> 00:13:49,578
+We'll ride into
+the Confederacy of Ruth.
+
+155
+00:13:50,537 --> 00:13:52,205
+Where you'll tell the first women
+that we meet
+
+156
+00:13:52,539 --> 00:13:54,333
+that you've heard of their
+system of female dominance
+
+157
+00:13:54,499 --> 00:13:55,334
+and that you believe in it.
+
+158
+00:13:56,460 --> 00:13:58,420
+What makes you think
+they'll accept that story?
+
+159
+00:13:58,587 --> 00:14:01,923
+I'll be proof. Your captive,
+as described in the tapes.
+
+160
+00:14:04,217 --> 00:14:06,511
+Bound and led in by the neck.
+
+161
+00:14:52,724 --> 00:14:55,519
+You. Have Partha send out
+a second team.
+
+162
+00:14:55,769 --> 00:14:57,437
+I want this field ready tomorrow.
+
+163
+00:15:13,912 --> 00:15:15,372
+You're on your own HS.
+
+164
+00:15:21,128 --> 00:15:21,962
+Who are you?
+
+165
+00:15:22,337 --> 00:15:24,172
+I've come to join your Confederacy.
+
+166
+00:15:24,714 --> 00:15:26,341
+I brought a male captive
+from my country
+
+167
+00:15:26,508 --> 00:15:28,301
+to prove I agree with your beliefs.
+
+168
+00:15:28,802 --> 00:15:30,595
+What do you know of the women of Ruth?
+
+169
+00:15:31,012 --> 00:15:32,681
+I subscribe to your principles.
+
+170
+00:15:33,181 --> 00:15:35,642
+Female dominance is
+the natural order of life.
+
+171
+00:15:46,278 --> 00:15:48,321
+- Eyes down.
+- Stop that.
+
+172
+00:15:49,823 --> 00:15:51,199
+Eyes down.
+
+173
+00:16:02,127 --> 00:16:03,628
+He hasn't been properly trained.
+
+174
+00:16:04,212 --> 00:16:06,173
+But he looks healthy enough
+to bring a good price.
+
+175
+00:16:08,216 --> 00:16:09,551
+I challenge your ownership.
+
+176
+00:16:09,759 --> 00:16:11,761
+But--but it's obvious that I own him.
+
+177
+00:16:12,387 --> 00:16:13,889
+You saw me ride in with him.
+
+178
+00:16:14,264 --> 00:16:15,849
+I've just challenged you
+for this male.
+
+179
+00:16:16,016 --> 00:16:17,350
+Will you fight for him or not?
+
+180
+00:16:17,517 --> 00:16:19,186
+But there's no reason to fight.
+
+181
+00:16:19,352 --> 00:16:20,562
+I have come in friendship. I--
+
+182
+00:16:23,565 --> 00:16:25,025
+He is my property!
+
+183
+00:16:27,944 --> 00:16:29,488
+He was your property.
+
+184
+00:16:56,640 --> 00:16:58,975
+Uh, there's another man
+from my country, miss.
+
+185
+00:16:59,392 --> 00:17:02,145
+Uh, Jonathan Connor.
+He came here about a year ago.
+
+186
+00:17:03,897 --> 00:17:06,816
+I've explained to you,
+the rule here is silence.
+
+187
+00:17:07,067 --> 00:17:10,904
+But, perhaps this friend of mine
+and myself can help you.
+
+188
+00:17:11,071 --> 00:17:12,322
+We can be a value to you.
+
+189
+00:17:12,572 --> 00:17:15,575
+You have men pulling wagons,
+ploughing fields.
+
+190
+00:17:15,909 --> 00:17:18,995
+This friend of mine knows how to train
+horses to do it better, faster.
+
+191
+00:17:19,329 --> 00:17:20,163
+Or even oxen.
+
+192
+00:17:20,539 --> 00:17:23,625
+Why? You Dinks are
+more easily trained.
+
+193
+00:17:23,792 --> 00:17:26,002
+You take care of yourselves,
+you grow your own food.
+
+194
+00:17:26,253 --> 00:17:27,963
+Why should we bother with animals?
+
+195
+00:17:28,129 --> 00:17:30,090
+That's the second time
+you've mentioned training.
+
+196
+00:17:31,299 --> 00:17:32,259
+What kind of training?
+
+197
+00:17:34,344 --> 00:17:37,472
+We don't geld our males
+if that's what worries you.
+
+198
+00:17:37,806 --> 00:17:39,891
+It would make them too fat and lazy.
+
+199
+00:17:40,642 --> 00:17:42,894
+But if you break the rule
+of silence again,
+
+200
+00:17:43,228 --> 00:17:45,146
+I'll make an exception in your case.
+
+201
+00:18:46,791 --> 00:18:48,501
+This way, Dink, follow me.
+
+202
+00:18:54,299 --> 00:18:56,259
+- Greetings, Marg.
+- Fine day, Bronta.
+
+203
+00:18:58,803 --> 00:18:59,804
+Villar.
+
+204
+00:19:04,726 --> 00:19:08,355
+Another outsider?
+You haven't enough of them, Marg?
+
+205
+00:19:08,688 --> 00:19:12,108
+I'm putting this one up for sale.
+His manners are tricky.
+
+206
+00:19:13,443 --> 00:19:14,611
+Eyes down.
+
+207
+00:19:18,740 --> 00:19:21,076
+Hands don't show much heavy labor.
+
+208
+00:19:21,660 --> 00:19:22,869
+That'll affect the price.
+
+209
+00:19:24,663 --> 00:19:26,748
+Eh, but his lines aren't that bad.
+
+210
+00:19:27,624 --> 00:19:30,377
+Teeth are good, eyes clear.
+
+211
+00:19:30,877 --> 00:19:33,254
+Couldn't you use a new breeder
+at your place?
+
+212
+00:19:39,386 --> 00:19:41,888
+No spirit.
+No, he came along too willingly.
+
+213
+00:19:42,472 --> 00:19:44,516
+If you can get a breeder price
+for him, all the better.
+
+214
+00:19:48,645 --> 00:19:53,400
+Now listen carefully, wherever
+you're from, you're a Dink now.
+
+215
+00:19:53,817 --> 00:19:55,944
+Untrained, but still a Dink.
+
+216
+00:19:56,861 --> 00:19:57,904
+The rules are made simple
+
+217
+00:19:58,071 --> 00:20:00,407
+so that even a male
+can understand them.
+
+218
+00:20:00,865 --> 00:20:03,284
+Show obedience at all times
+and you'll find happiness
+
+219
+00:20:03,451 --> 00:20:04,869
+in service to the community.
+
+220
+00:20:05,537 --> 00:20:07,372
+As long as your behavior warrants it
+
+221
+00:20:07,539 --> 00:20:10,583
+you'll be protected, fed, clothed,
+
+222
+00:20:11,000 --> 00:20:12,585
+relieved of all the responsibilities
+
+223
+00:20:12,752 --> 00:20:15,130
+that your sex finds
+so difficult in life.
+
+224
+00:20:35,525 --> 00:20:38,528
+It's a mutant group named Kreegs
+and they're dangerous.
+
+225
+00:20:38,695 --> 00:20:39,904
+Silence.
+
+226
+00:20:41,030 --> 00:20:42,699
+Look, I'm trying to help you.
+
+227
+00:20:43,199 --> 00:20:45,994
+Your Confederacy may be attacked
+any time now.
+
+228
+00:20:47,162 --> 00:20:50,707
+This is not a chaotic,
+male-dominated society.
+
+229
+00:20:50,874 --> 00:20:54,002
+We are fully capable
+of protecting ourselves.
+
+230
+00:21:06,181 --> 00:21:09,601
+Remember, you'll keep
+eyes down and keep silent.
+
+231
+00:21:09,768 --> 00:21:12,270
+Look, I must have
+the answer to one ques--
+
+232
+00:21:12,437 --> 00:21:13,229
+Silence!
+
+233
+00:21:14,230 --> 00:21:15,565
+One question!
+
+234
+00:21:16,608 --> 00:21:18,651
+And then I'll obey all your rules.
+
+235
+00:21:19,319 --> 00:21:21,237
+I thought Marg said he had no spirit.
+
+236
+00:21:21,905 --> 00:21:22,697
+Well?
+
+237
+00:21:23,281 --> 00:21:26,326
+I have a friend who disappeared
+in this area about a year ago.
+
+238
+00:21:26,618 --> 00:21:29,496
+If he's alive and he's here,
+I must find him.
+
+239
+00:21:29,954 --> 00:21:33,792
+Is there something about
+this particular Dink we'd remember?
+
+240
+00:21:34,626 --> 00:21:36,753
+Was he unusually large or small?
+
+241
+00:21:37,086 --> 00:21:37,962
+Deformed somehow?
+
+242
+00:21:38,379 --> 00:21:40,673
+No, but his name is Jonathan Connor.
+
+243
+00:21:41,090 --> 00:21:42,300
+The only name a Dink owns
+
+244
+00:21:42,467 --> 00:21:44,260
+is the one his mistress
+chooses for him.
+
+245
+00:21:44,594 --> 00:21:46,930
+That is, if she cares
+to give him a name at all.
+
+246
+00:21:48,348 --> 00:21:50,809
+Now, eyes down.
+
+247
+00:21:51,434 --> 00:21:52,560
+And silence.
+
+248
+00:22:07,158 --> 00:22:08,618
+I'm looking for someone--
+
+249
+00:22:09,661 --> 00:22:11,120
+I have to find an outsider who--
+
+250
+00:22:29,973 --> 00:22:32,642
+Baylok, Isiah, what happened?
+
+251
+00:22:35,019 --> 00:22:36,312
+Well, how did you get here?
+
+252
+00:22:39,482 --> 00:22:40,775
+What happened? Tell me.
+
+253
+00:22:41,442 --> 00:22:43,278
+Dylan, please, your voice is angry.
+
+254
+00:22:44,279 --> 00:22:45,780
+You, on your feet!
+
+255
+00:22:47,282 --> 00:22:48,700
+C'mon, get on your feet.
+Get over there.
+
+256
+00:22:48,867 --> 00:22:50,535
+I have a buyer interested in you.
+
+257
+00:23:02,505 --> 00:23:03,798
+First sale today.
+
+258
+00:23:04,549 --> 00:23:06,843
+A team of outsiders recently captured.
+
+259
+00:23:07,677 --> 00:23:09,679
+You'll find this one well trained.
+
+260
+00:23:10,263 --> 00:23:13,141
+As powerful a field Dink
+as you'll ever see offered.
+
+261
+00:23:14,267 --> 00:23:15,852
+Examine him as close as you like.
+
+262
+00:23:17,520 --> 00:23:19,564
+He's a bargain in strength
+and stamina.
+
+263
+00:23:19,731 --> 00:23:22,025
+Look at these shoulders.
+Look at these back muscles.
+
+264
+00:23:22,191 --> 00:23:23,902
+Well, if he's as strong as he looks,
+
+265
+00:23:24,068 --> 00:23:25,028
+- I'm interested.
+- Wow!
+
+266
+00:23:25,236 --> 00:23:27,530
+- Yeah, I'll bid for him.
+- And I.
+
+267
+00:23:28,156 --> 00:23:28,740
+Baylok.
+
+268
+00:23:29,365 --> 00:23:30,283
+- Wait.
+- Go away.
+
+269
+00:23:30,450 --> 00:23:32,243
+What have they done to you?
+What's wrong with you?
+
+270
+00:23:33,411 --> 00:23:35,496
+Listen, look up at me.
+
+271
+00:23:38,291 --> 00:23:39,584
+Try to look into my eyes.
+
+272
+00:23:42,253 --> 00:23:45,340
+- Look into my eyes.
+- Please, don't hurt me.
+
+273
+00:23:46,424 --> 00:23:47,383
+I won't hurt you.
+
+274
+00:23:48,718 --> 00:23:49,802
+Try to meet my eyes.
+
+275
+00:23:51,137 --> 00:23:52,013
+Try.
+
+276
+00:23:59,062 --> 00:24:00,605
+It's your friend, Dylan.
+
+277
+00:24:02,607 --> 00:24:06,027
+You're an Esper, shut out all of this.
+
+278
+00:24:07,195 --> 00:24:09,656
+Concentrate on what's inside you.
+
+279
+00:24:10,657 --> 00:24:12,784
+Your eyes, keep them on mine.
+
+280
+00:24:13,952 --> 00:24:14,953
+Keep them on mine.
+
+281
+00:24:16,454 --> 00:24:17,664
+It's just the two of us.
+
+282
+00:24:18,790 --> 00:24:22,043
+Our eyes, our contact.
+
+283
+00:24:22,961 --> 00:24:26,422
+Dylan...I'm frightened.
+
+284
+00:24:26,965 --> 00:24:27,674
+Why?
+
+285
+00:24:29,175 --> 00:24:30,969
+Have they operated on you in some way?
+
+286
+00:24:31,761 --> 00:24:33,596
+O-or given you an injection
+of some kind?
+
+287
+00:24:33,930 --> 00:24:36,933
+No. No, nothing medical.
+
+288
+00:24:37,934 --> 00:24:39,519
+Well, were you given something
+to drink then?
+
+289
+00:24:40,937 --> 00:24:42,981
+No. Water.
+
+290
+00:24:47,860 --> 00:24:51,280
+Food. Isiah and I...
+
+291
+00:24:53,908 --> 00:24:57,954
+...we both...ate the food.
+
+292
+00:25:00,331 --> 00:25:02,792
+Something, so--something in the food.
+
+293
+00:25:04,127 --> 00:25:06,045
+Do--don't eat the food.
+
+294
+00:25:06,295 --> 00:25:08,423
+D-don't eat. It contains something.
+
+295
+00:25:08,840 --> 00:25:11,050
+Don't, please, go away.
+
+296
+00:25:11,384 --> 00:25:16,014
+Leave me. Frightened.
+Drug induces fear.
+
+297
+00:25:16,681 --> 00:25:18,850
+T-terrible fear. Fear.
+
+298
+00:25:19,350 --> 00:25:21,477
+Six and six, done.
+Can I get six and seven?
+
+299
+00:25:21,644 --> 00:25:23,354
+- Seven.
+- Can I get six prime sheep
+
+300
+00:25:23,521 --> 00:25:24,272
+and seven bushels?
+
+301
+00:25:24,439 --> 00:25:25,606
+I bid a ram.
+
+302
+00:25:26,899 --> 00:25:31,738
+A ram! Six prime sheep
+and eight bushels of grain.
+
+303
+00:25:31,988 --> 00:25:33,656
+Do I hear nine?
+
+304
+00:25:34,115 --> 00:25:36,784
+- Kyla.
+- No. I won't go that much.
+
+305
+00:25:37,493 --> 00:25:38,828
+Let's see the other one of the pair.
+
+306
+00:25:39,746 --> 00:25:40,371
+Get him.
+
+307
+00:25:41,122 --> 00:25:44,375
+Nine bushels, Bronta. Remember,
+he might have breeder capacity.
+
+308
+00:25:44,834 --> 00:25:46,127
+If you like 30 pound babies.
+
+309
+00:25:52,300 --> 00:25:54,010
+Are you certain
+he's completely trained?
+
+310
+00:25:59,474 --> 00:26:00,391
+He's trained.
+
+311
+00:26:01,142 --> 00:26:02,143
+My bid stands.
+
+312
+00:26:03,019 --> 00:26:04,103
+That's too high for me.
+
+313
+00:26:05,104 --> 00:26:06,522
+Sold to Delba.
+
+314
+00:26:11,944 --> 00:26:13,696
+Another eight bushels for this one?
+
+315
+00:26:14,947 --> 00:26:17,158
+No, he'd last about two days
+in the field.
+
+316
+00:26:17,366 --> 00:26:19,869
+They're up as a pair.
+You take both of them or neither.
+
+317
+00:26:21,829 --> 00:26:23,247
+How about that one instead?
+
+318
+00:26:24,874 --> 00:26:25,917
+The outsider?
+
+319
+00:26:26,334 --> 00:26:28,127
+That's prime breeder stock
+if I'm any judge.
+
+320
+00:26:28,294 --> 00:26:30,213
+Yes. I like him.
+
+321
+00:26:32,799 --> 00:26:35,760
+He'll be offered as breeder stock
+tomorrow after training.
+
+322
+00:26:36,260 --> 00:26:38,971
+All right. I'll take him
+and I'll reserve this one.
+
+323
+00:26:39,138 --> 00:26:41,808
+Not so fast, Delba.
+I need a breeder too.
+
+324
+00:26:42,100 --> 00:26:44,268
+He's got spirit.
+I may bid for him myself.
+
+325
+00:26:44,644 --> 00:26:46,729
+I hope training
+won't affect him too much.
+
+326
+00:26:48,231 --> 00:26:49,690
+We'll want him tested, Villar.
+
+327
+00:26:49,941 --> 00:26:53,027
+- Agreed?
+- Agreed, you'll see him tested.
+
+328
+00:27:17,969 --> 00:27:18,678
+Thank you.
+
+329
+00:27:30,982 --> 00:27:34,152
+I told you that west section
+was arable, Merlo.
+
+330
+00:27:34,402 --> 00:27:36,195
+Then next month, we'll do
+even better, mistress.
+
+331
+00:27:37,697 --> 00:27:38,406
+The door.
+
+332
+00:27:45,246 --> 00:27:46,164
+An outsider.
+
+333
+00:27:50,793 --> 00:27:52,086
+I'm lost. I'm trying to--
+
+334
+00:27:52,253 --> 00:27:53,546
+Go back the way you came.
+
+335
+00:27:53,963 --> 00:27:56,924
+We want no outsider female ideas
+in our Confederacy.
+
+336
+00:27:57,633 --> 00:27:59,760
+I've seen more hospitality
+from savages.
+
+337
+00:28:00,094 --> 00:28:03,181
+What do I have to do? Fight you
+just to get simple directions?
+
+338
+00:28:03,431 --> 00:28:04,932
+That is your right, of course.
+
+339
+00:28:05,600 --> 00:28:06,642
+You challenge me?
+
+340
+00:28:10,938 --> 00:28:11,689
+Yes.
+
+341
+00:28:15,109 --> 00:28:16,194
+I want some directions.
+
+342
+00:28:18,237 --> 00:28:19,864
+And I'm damn well gonna get them.
+
+343
+00:28:20,156 --> 00:28:20,948
+Mother!
+
+344
+00:28:23,242 --> 00:28:25,244
+There, there, there, there. Don't cry.
+
+345
+00:28:26,204 --> 00:28:27,163
+Mother.
+
+346
+00:28:28,247 --> 00:28:31,125
+I'm sorry. i-I didn't see
+the children. I'm sorry.
+
+347
+00:28:35,379 --> 00:28:36,339
+Come by the fire.
+
+348
+00:28:37,381 --> 00:28:38,633
+It must have been cold out there.
+
+349
+00:28:42,261 --> 00:28:43,387
+It's all right.
+
+350
+00:28:49,560 --> 00:28:51,020
+You see, we're not unkind.
+
+351
+00:28:51,687 --> 00:28:52,813
+Conduct yourself properly
+
+352
+00:28:52,980 --> 00:28:54,607
+and I'll leave your hands
+free tonight.
+
+353
+00:28:55,399 --> 00:28:56,192
+Now, eat.
+
+354
+00:30:21,694 --> 00:30:22,320
+Eat!
+
+355
+00:30:42,381 --> 00:30:43,007
+Eat!
+
+356
+00:30:54,643 --> 00:30:57,480
+I must find him tonight, please.
+I can't explain--
+
+357
+00:30:57,646 --> 00:30:59,315
+There's nothing you can do
+until the morning.
+
+358
+00:30:59,899 --> 00:31:03,235
+All new captives must be kept
+overnight in the compound.
+
+359
+00:31:06,197 --> 00:31:07,323
+Do you enjoy the music?
+
+360
+00:31:07,740 --> 00:31:10,201
+That was my great-great-grandmother's
+strike harp.
+
+361
+00:31:15,790 --> 00:31:16,499
+It's lovely.
+
+362
+00:31:19,085 --> 00:31:21,170
+Then the other man I described?
+Connor?
+
+363
+00:31:21,420 --> 00:31:23,381
+You can ask about him
+in the village tomorrow.
+
+364
+00:31:24,256 --> 00:31:26,801
+When you challenge Marg
+to win back your captive.
+
+365
+00:31:27,134 --> 00:31:29,220
+But why do you have customs like that?
+
+366
+00:31:29,512 --> 00:31:31,097
+Challenging, fighting.
+
+367
+00:31:31,389 --> 00:31:33,641
+Because women don't deceive
+themselves like men.
+
+368
+00:31:34,058 --> 00:31:37,061
+Male societies reward
+deceit and cowardice.
+
+369
+00:31:37,645 --> 00:31:38,938
+Here, as in nature,
+
+370
+00:31:39,105 --> 00:31:42,149
+the strong have the best mates
+and households.
+
+371
+00:31:42,817 --> 00:31:45,319
+In nature, the female
+is always dominant.
+
+372
+00:31:45,778 --> 00:31:47,863
+When that natural order is reversed,
+
+373
+00:31:48,406 --> 00:31:51,867
+men become the same vain,
+quarrelsome little seed carriers
+
+374
+00:31:52,034 --> 00:31:55,913
+who lied and postured and drove
+the whole world into destruction.
+
+375
+00:32:16,976 --> 00:32:19,395
+We'll be at full strength
+tomorrow sundown,
+
+376
+00:32:19,645 --> 00:32:20,771
+Commander Soldier.
+
+377
+00:32:21,313 --> 00:32:22,356
+Position units.
+
+378
+00:32:23,357 --> 00:32:26,068
+One to attack each female household.
+
+379
+00:32:27,445 --> 00:32:30,156
+Their males, they will not fight.
+
+380
+00:32:30,489 --> 00:32:34,160
+No, Commander Soldier,
+the woman do something
+
+381
+00:32:34,452 --> 00:32:36,745
+which make men fear their own shadow.
+
+382
+00:32:40,249 --> 00:32:40,916
+Yes.
+
+383
+00:32:41,876 --> 00:32:43,210
+Commander Soldier, sir.
+
+384
+00:32:43,586 --> 00:32:45,671
+Sub-units ready to inspect.
+
+385
+00:32:45,838 --> 00:32:46,839
+Well...
+
+386
+00:33:01,353 --> 00:33:02,354
+Have you seen him?
+
+387
+00:33:03,481 --> 00:33:05,900
+Jonathan Connor? If you worked
+here at the village last year
+
+388
+00:33:06,066 --> 00:33:07,109
+you must have seen him.
+
+389
+00:33:07,401 --> 00:33:09,987
+He's about 35 years old,
+5'10" and he--
+
+390
+00:33:10,154 --> 00:33:11,906
+No, no. No, I've never seen him.
+
+391
+00:33:13,365 --> 00:33:14,325
+Pretend to be asleep.
+
+392
+00:34:15,302 --> 00:34:16,679
+- Hmm!
+- Quiet, quiet.
+
+393
+00:34:17,054 --> 00:34:19,348
+- I'm looking for an outsid--
+- Back to the compound!
+
+394
+00:34:21,350 --> 00:34:22,810
+You remember that rule of silence?
+
+395
+00:34:23,310 --> 00:34:24,687
+It's still in effect.
+
+396
+00:34:25,229 --> 00:34:26,647
+Not one word.
+
+397
+00:34:27,648 --> 00:34:28,983
+We're getting some horses
+
+398
+00:34:29,233 --> 00:34:30,859
+and you're gonna help me
+find my friend--
+
+399
+00:34:36,490 --> 00:34:40,035
+There, you look more like one of us
+for your challenge tomorrow.
+
+400
+00:34:40,202 --> 00:34:41,370
+Beautiful, mistress.
+
+401
+00:34:42,997 --> 00:34:46,125
+The Dink extract wasn't always
+used on the men here, was it?
+
+402
+00:34:46,375 --> 00:34:48,794
+In the beginning, it was given
+only to troublesome males
+
+403
+00:34:49,253 --> 00:34:51,463
+but over the years,
+our women have begun to depend on it.
+
+404
+00:34:51,630 --> 00:34:53,340
+It's in a gruel that
+Marg delivers everyday
+
+405
+00:34:53,507 --> 00:34:54,508
+to most of the other households.
+
+406
+00:34:54,675 --> 00:34:57,469
+Which makes it impossible for
+anyone to learn Marg's formula.
+
+407
+00:34:57,720 --> 00:35:00,055
+The secret's been in her family
+since our beginning.
+
+408
+00:35:00,806 --> 00:35:02,641
+But by using it so much now,
+
+409
+00:35:02,933 --> 00:35:05,227
+it's slowly destroying
+our Confederacy.
+
+410
+00:35:05,728 --> 00:35:08,355
+Not one household in five
+had a child last year.
+
+411
+00:35:13,235 --> 00:35:15,279
+Pity, he didn't respond
+to the extract.
+
+412
+00:35:15,696 --> 00:35:17,197
+He would have made you a nice profit.
+
+413
+00:35:18,157 --> 00:35:21,118
+Delba wanted him badly
+as a breeder. Bronta, too.
+
+414
+00:35:25,164 --> 00:35:26,832
+Are you certain you saw him
+eat the gruel?
+
+415
+00:35:27,541 --> 00:35:29,793
+How long have I been running
+this compound, Marg?
+
+416
+00:35:30,252 --> 00:35:31,712
+Do you think I can be tricked?
+
+417
+00:35:32,212 --> 00:35:35,257
+He tricked me, Villar.
+I didn't think he had any spirit.
+
+418
+00:35:39,595 --> 00:35:41,055
+Delba's right about one thing.
+
+419
+00:35:41,472 --> 00:35:42,598
+Excellent lines.
+
+420
+00:35:43,390 --> 00:35:45,017
+None of which changes the law.
+
+421
+00:35:45,434 --> 00:35:47,770
+He must be trained or exterminated.
+
+422
+00:37:17,234 --> 00:37:21,947
+Please, please, don't hurt me.
+
+423
+00:37:22,406 --> 00:37:23,699
+Hurt you, little man?
+
+424
+00:37:26,910 --> 00:37:29,580
+I have more interesting things
+in mind for you.
+
+425
+00:37:51,727 --> 00:37:52,853
+Come out here, Dink.
+
+426
+00:37:58,442 --> 00:38:00,027
+Eyes down.
+
+427
+00:38:00,652 --> 00:38:01,612
+Damn, your whole--
+
+428
+00:38:02,529 --> 00:38:03,697
+What did you say to me?
+
+429
+00:38:07,367 --> 00:38:08,452
+He's fighting it.
+
+430
+00:38:09,411 --> 00:38:11,371
+More than any we've had
+here in quite a while.
+
+431
+00:38:11,997 --> 00:38:12,748
+Yes.
+
+432
+00:38:23,217 --> 00:38:24,802
+Has Marg's outsider been sold yet?
+
+433
+00:38:24,968 --> 00:38:25,677
+No, Delba.
+
+434
+00:38:25,844 --> 00:38:26,512
+Good.
+
+435
+00:38:26,804 --> 00:38:28,388
+...sold to Carlotta.
+
+436
+00:38:32,643 --> 00:38:36,438
+Next we have an outsider captive
+of exceptional spirit.
+
+437
+00:38:37,731 --> 00:38:41,652
+His resistance to training
+promises a good breeder.
+
+438
+00:38:43,487 --> 00:38:45,656
+I'm not so sure I'm putting
+him up for auction.
+
+439
+00:38:45,864 --> 00:38:48,867
+That's unfair. I've just ridden
+all away in to bid on this one.
+
+440
+00:38:49,284 --> 00:38:51,411
+You agreed to auction him,
+Marg. Bring him up.
+
+441
+00:38:58,794 --> 00:39:02,256
+Don't be shy, Dink,
+you'll get used to it fast enough.
+
+442
+00:39:05,926 --> 00:39:07,594
+Look at the spirit on this one.
+
+443
+00:39:14,101 --> 00:39:16,395
+- Are you ready, Delba?
+- Yes.
+
+444
+00:39:16,603 --> 00:39:17,229
+Stop.
+
+445
+00:39:19,439 --> 00:39:21,191
+I'll do any testing that's done.
+
+446
+00:39:21,483 --> 00:39:23,485
+He's still my property
+until he's sold.
+
+447
+00:39:27,990 --> 00:39:29,116
+Hold on, Villar.
+
+448
+00:39:29,700 --> 00:39:32,244
+This is Harper-Smythe.
+She's here with a challenge.
+
+449
+00:39:32,494 --> 00:39:34,329
+That Dink is my property.
+
+450
+00:39:34,872 --> 00:39:37,207
+I captured him and brought him
+to the Confederacy.
+
+451
+00:39:37,624 --> 00:39:39,877
+I challenge any claim you have on him.
+
+452
+00:39:40,586 --> 00:39:42,963
+You've received
+a properly issued challenge, Marg.
+
+453
+00:39:43,422 --> 00:39:45,382
+Either give up the property or fight.
+
+454
+00:39:47,676 --> 00:39:48,719
+I'll fight.
+
+455
+00:39:54,391 --> 00:39:56,476
+Harper-Smythe, over there.
+
+456
+00:40:09,698 --> 00:40:10,824
+Fight, Marg.
+
+457
+00:40:53,075 --> 00:40:54,284
+You won him fairly.
+
+458
+00:40:57,454 --> 00:40:59,039
+Marg is offering you friendship.
+
+459
+00:40:59,289 --> 00:41:02,793
+We feel no shame here
+after we've done our best.
+
+460
+00:41:14,596 --> 00:41:17,391
+At her age and with his spirit,
+we'll have little ones about soon.
+
+461
+00:41:17,891 --> 00:41:19,518
+I'd give half my fields for a baby.
+
+462
+00:41:19,810 --> 00:41:21,561
+What do you expect of your males?
+
+463
+00:41:21,979 --> 00:41:25,232
+If you drugged your rams and
+stallion, it's the same way.
+
+464
+00:41:25,399 --> 00:41:28,193
+Are you still peddling
+that nonsense, Treece?
+
+465
+00:41:29,361 --> 00:41:32,489
+The human male
+is an unstable creature.
+
+466
+00:41:32,656 --> 00:41:36,159
+Who can easily be controlled
+by any real woman.
+
+467
+00:41:37,160 --> 00:41:39,913
+Unless she's afraid
+he'll end up by dominating her.
+
+468
+00:41:40,247 --> 00:41:42,916
+I'd like to see the male
+who could dominate me.
+
+469
+00:41:43,917 --> 00:41:45,877
+Perhaps that's exactly
+what you'd like.
+
+470
+00:41:46,837 --> 00:41:47,671
+Secretly.
+
+471
+00:41:50,007 --> 00:41:52,092
+Stand still for your mistress, Dink.
+
+472
+00:41:53,719 --> 00:41:56,054
+Dylan, it's me. Harper-Smythe.
+
+473
+00:41:57,431 --> 00:41:58,890
+Everything's all right now.
+
+474
+00:42:00,350 --> 00:42:01,601
+Come closer, everybody.
+
+475
+00:42:02,519 --> 00:42:04,229
+Harper-Smythe is looking
+for another Dink
+
+476
+00:42:04,396 --> 00:42:05,856
+who came here about a year ago.
+
+477
+00:42:07,774 --> 00:42:10,402
+Yes, I'd be interested in buying him.
+
+478
+00:42:11,319 --> 00:42:13,238
+He was a medical healer in my country.
+
+479
+00:42:13,572 --> 00:42:15,323
+About 34 years old.
+
+480
+00:42:15,949 --> 00:42:18,910
+Brown hair, hazel eyes,
+intelligent features.
+
+481
+00:42:19,745 --> 00:42:22,372
+I've bought most of the outsiders
+in the last few years.
+
+482
+00:42:22,706 --> 00:42:25,042
+You're welcome to come and
+look for him at my household.
+
+483
+00:42:26,293 --> 00:42:29,504
+That's true. Marg does own
+most of the outsider Dinks.
+
+484
+00:42:30,130 --> 00:42:32,674
+And you can easily visit
+the other households from there.
+
+485
+00:42:33,216 --> 00:42:34,384
+Why not stay with me?
+
+486
+00:42:55,530 --> 00:42:57,157
+Welcome home, mistress.
+
+487
+00:43:08,251 --> 00:43:11,213
+You see the order,
+the tranquility of our system?
+
+488
+00:43:12,172 --> 00:43:14,800
+I certainly think there's some
+sense in female dominance.
+
+489
+00:43:14,966 --> 00:43:16,510
+But I don't agree about the drugging.
+
+490
+00:43:17,177 --> 00:43:19,513
+The extract has its strongest effect
+in the beginning.
+
+491
+00:43:19,930 --> 00:43:22,808
+But as they become accustomed
+to it, why, they're content.
+
+492
+00:43:23,642 --> 00:43:25,477
+Why they're--they're even happy
+with it.
+
+493
+00:43:26,686 --> 00:43:27,979
+The Dink you're looking for?
+
+494
+00:43:29,356 --> 00:43:31,274
+- You've more in the house?
+- Yes.
+
+495
+00:43:37,322 --> 00:43:38,448
+Perfect contentment.
+
+496
+00:43:38,698 --> 00:43:41,785
+They take great pride in their work,
+their responsibilities.
+
+497
+00:43:54,214 --> 00:43:56,424
+- Is he here?
+- No.
+
+498
+00:43:57,217 --> 00:43:59,761
+There're many in the fields,
+of course. They come at sundown.
+
+499
+00:43:59,928 --> 00:44:01,054
+Welcome home, mistress.
+
+500
+00:44:01,221 --> 00:44:03,056
+Another busy day, Gorda?
+
+501
+00:44:05,600 --> 00:44:06,268
+Thank you.
+
+502
+00:44:06,852 --> 00:44:08,854
+Not a brain in his head,
+but he's a comfort.
+
+503
+00:44:09,855 --> 00:44:10,689
+I'm sure.
+
+504
+00:44:11,106 --> 00:44:12,607
+Until yours adjusts to training,
+
+505
+00:44:12,774 --> 00:44:15,652
+you might find Gorda
+much more helpful and amusing.
+
+506
+00:44:17,529 --> 00:44:19,281
+Oh, no, thank you.
+
+507
+00:44:22,409 --> 00:44:23,577
+Your room is this way.
+
+508
+00:44:26,246 --> 00:44:27,205
+Dylan...
+
+509
+00:44:28,790 --> 00:44:29,457
+This way.
+
+510
+00:44:32,252 --> 00:44:34,713
+<i>Pater Kimbridge is still
+not responding to the heart machine.</i>
+
+511
+00:44:35,547 --> 00:44:39,801
+<i>Repeat, Kimbridge critical
+with 15 hours of life at most.</i>
+
+512
+00:44:40,385 --> 00:44:42,387
+<i>Please confirm
+your understanding of this.</i>
+
+513
+00:44:43,388 --> 00:44:45,307
+Fifteen hours, message understood.
+
+514
+00:44:45,682 --> 00:44:46,975
+Team 21 out.
+
+515
+00:44:48,935 --> 00:44:51,980
+Do you understand?
+We must find Jonathan.
+
+516
+00:44:53,148 --> 00:44:55,984
+Must find...Jonathan?
+
+517
+00:44:56,401 --> 00:44:59,613
+Dr. Connor. Pater Kimbridge is dying.
+
+518
+00:45:00,697 --> 00:45:02,908
+Dylan, you're drugged.
+Keep fighting it.
+
+519
+00:45:05,994 --> 00:45:07,078
+Fighting.
+
+520
+00:45:09,456 --> 00:45:10,457
+Trying.
+
+521
+00:45:15,253 --> 00:45:16,838
+So much fear.
+
+522
+00:45:22,510 --> 00:45:24,554
+- Fear of you.
+- We mustn't be--
+
+523
+00:45:26,473 --> 00:45:28,266
+Help.
+
+524
+00:45:29,226 --> 00:45:30,518
+Help me!
+
+525
+00:45:34,689 --> 00:45:35,440
+Dylan...
+
+526
+00:45:39,110 --> 00:45:40,403
+I want to help you.
+
+527
+00:45:43,281 --> 00:45:44,950
+You're frightened you won't please me.
+
+528
+00:45:45,116 --> 00:45:46,534
+That's how the drug works.
+
+529
+00:45:51,748 --> 00:45:52,457
+See?
+
+530
+00:45:54,751 --> 00:45:55,961
+You do please me.
+
+531
+00:46:01,800 --> 00:46:03,134
+Does this help, Dylan?
+
+532
+00:46:03,885 --> 00:46:05,637
+Does this make you less frightened?
+
+533
+00:46:06,972 --> 00:46:07,722
+Yes.
+
+534
+00:46:10,725 --> 00:46:13,353
+Doesn't this prove there's
+nothing to be afraid of?
+
+535
+00:46:19,025 --> 00:46:19,901
+Help me.
+
+536
+00:46:22,737 --> 00:46:25,782
+This...this makes you happy?
+
+537
+00:46:28,201 --> 00:46:29,077
+Yes, Dylan.
+
+538
+00:46:46,344 --> 00:46:49,306
+Mm, Dylan, Dylan,
+we--we have to find Jonathan.
+
+539
+00:46:56,980 --> 00:46:58,273
+No, Dylan, no.
+
+540
+00:47:02,986 --> 00:47:03,862
+Jonathan?
+
+541
+00:47:07,157 --> 00:47:07,949
+Jonathan.
+
+542
+00:47:08,283 --> 00:47:09,659
+Jonathan, do you recognize me?
+
+543
+00:47:10,160 --> 00:47:11,036
+I'm not drugged.
+
+544
+00:47:13,580 --> 00:47:14,205
+Who's he?
+
+545
+00:47:15,790 --> 00:47:16,791
+My team leader.
+
+546
+00:47:19,461 --> 00:47:21,129
+Here's an antidote to Dink extract.
+
+547
+00:47:21,296 --> 00:47:23,423
+Mix it with water when you
+want him to be himself again.
+
+548
+00:47:23,590 --> 00:47:26,551
+We came here to find you.
+You're needed urgently at PAX.
+
+549
+00:47:26,760 --> 00:47:27,552
+Urgently?
+
+550
+00:47:29,387 --> 00:47:33,141
+Pater Kimbridge needs heart surgery
+in the next 15 hours or he'll die.
+
+551
+00:47:44,194 --> 00:47:44,861
+Drink it all.
+
+552
+00:47:45,612 --> 00:47:46,946
+Or you'll displease your mistress.
+
+553
+00:47:49,574 --> 00:47:52,410
+The damage to the heart
+requires bio-plastic surgery.
+
+554
+00:47:52,577 --> 00:47:54,579
+- Dr. Rabans?
+- Can't be reached in time.
+
+555
+00:47:54,829 --> 00:47:57,415
+If you could just escape
+to the subshuttle station...
+
+556
+00:47:57,749 --> 00:48:00,335
+Marg would miss me immediately.
+I'm due in the cooking shed.
+
+557
+00:48:01,753 --> 00:48:03,254
+After she bought me, I was put to work
+
+558
+00:48:03,421 --> 00:48:04,964
+where she makes the Dink extract.
+
+559
+00:48:06,216 --> 00:48:09,010
+Even drugged, I could recognize
+simple distilling equipment.
+
+560
+00:48:09,719 --> 00:48:12,472
+And once I recognized the process,
+I avoided eating the gruel
+
+561
+00:48:12,639 --> 00:48:14,140
+until my mind began clearing.
+
+562
+00:48:14,557 --> 00:48:16,810
+Who--who are you?
+
+563
+00:48:16,976 --> 00:48:18,061
+You'll be all right in a minute.
+
+564
+00:48:21,731 --> 00:48:23,400
+The extract is from a mutated plant
+
+565
+00:48:23,566 --> 00:48:25,443
+which produces
+a fear fascination syndrome
+
+566
+00:48:25,610 --> 00:48:26,736
+on the central nervous system.
+
+567
+00:48:27,404 --> 00:48:29,744
+The antidote was
+easy since it's similar
+
+568
+00:48:29,768 --> 00:48:31,866
+to compounds isolated in the 1960s
+
+569
+00:48:32,033 --> 00:48:33,618
+in biochemical warfare labs.
+
+570
+00:48:33,993 --> 00:48:35,161
+You're Dr. Connor.
+
+571
+00:48:35,412 --> 00:48:36,621
+Yes, it's Jonathan.
+
+572
+00:48:37,080 --> 00:48:38,206
+You've been drugged.
+
+573
+00:48:38,873 --> 00:48:39,541
+I know.
+
+574
+00:48:40,875 --> 00:48:42,502
+- You gave me something?
+- An antidote.
+
+575
+00:48:44,045 --> 00:48:46,005
+Listen, we've got to get you
+back to PAX.
+
+576
+00:48:46,172 --> 00:48:48,925
+I know about Kimbridge.
+But there's no way I can leave now.
+
+577
+00:48:50,885 --> 00:48:52,387
+Or maybe there is one way.
+
+578
+00:48:53,012 --> 00:48:55,932
+Harper, you must tell Marg that
+you want to trade him for me.
+
+579
+00:48:56,683 --> 00:48:58,977
+She wants him.
+Everyone in the household knows it.
+
+580
+00:48:59,144 --> 00:49:01,229
+Maybe we ought to tell him
+what she wants him for.
+
+581
+00:49:01,521 --> 00:49:03,273
+I know, I remember parts
+of what happened.
+
+582
+00:49:03,857 --> 00:49:04,649
+Parts?
+
+583
+00:49:04,816 --> 00:49:06,651
+Marg, usually oversees
+the gruel shipments
+
+584
+00:49:06,818 --> 00:49:07,861
+to the other households.
+
+585
+00:49:08,153 --> 00:49:09,612
+If you can get her distracted
+from that
+
+586
+00:49:09,779 --> 00:49:10,905
+she won't notice I'm gone.
+
+587
+00:49:11,197 --> 00:49:12,407
+- I'll try.
+- Good.
+
+588
+00:49:16,786 --> 00:49:18,621
+This Dink may just have
+a surprise for her.
+
+589
+00:49:20,123 --> 00:49:22,459
+Get her occupied and
+I'll leave with Harper.
+
+590
+00:49:22,792 --> 00:49:25,253
+As a woman, she can take me
+anywhere without questions.
+
+591
+00:49:25,420 --> 00:49:27,672
+What in the devil kept you here
+if you weren't drugged?
+
+592
+00:49:28,131 --> 00:49:30,300
+I've been accumulating
+a supply of the antidote.
+
+593
+00:49:30,842 --> 00:49:33,761
+Waiting for a chance to get it into
+the gruel they send out from here.
+
+594
+00:49:34,053 --> 00:49:36,723
+In that way, it would reach Dinks
+in almost every household.
+
+595
+00:49:36,890 --> 00:49:38,433
+Do it. I mean, on your way out.
+
+596
+00:49:38,600 --> 00:49:39,934
+With her help, it oughta be easy.
+
+597
+00:49:40,518 --> 00:49:42,312
+Tell PAX that I'll look
+for Baylok and Isiah and--
+
+598
+00:49:50,361 --> 00:49:51,154
+Marg.
+
+599
+00:49:52,238 --> 00:49:53,865
+What are you doing in here?
+
+600
+00:49:54,157 --> 00:49:55,575
+He's the one I was looking for.
+
+601
+00:49:55,825 --> 00:49:56,534
+This one?
+
+602
+00:49:56,826 --> 00:49:58,620
+I saw him from the window
+and called him in.
+
+603
+00:50:00,955 --> 00:50:03,333
+Yes, he is a handsome devil, isn't he?
+
+604
+00:50:03,625 --> 00:50:05,126
+I paid quite a price for him.
+
+605
+00:50:06,044 --> 00:50:06,920
+I'm sure.
+
+606
+00:50:08,755 --> 00:50:11,341
+I wonder, could we make an exchange?
+
+607
+00:50:20,058 --> 00:50:22,810
+That is if mine interests you at all.
+
+608
+00:50:26,940 --> 00:50:29,234
+Well, it would hardly be
+an even exchange.
+
+609
+00:50:29,692 --> 00:50:31,444
+Mine's extremely well trained.
+
+610
+00:50:33,446 --> 00:50:35,240
+But you are my guest, so I agree.
+
+611
+00:50:35,406 --> 00:50:37,742
+You're very generous, Marg. Thank you.
+
+612
+00:50:38,493 --> 00:50:40,870
+Dylan, you're to go
+with the household mistress.
+
+613
+00:50:41,120 --> 00:50:42,288
+You belong to her now.
+
+614
+00:50:53,758 --> 00:50:56,010
+- You handled that well, Harper.
+- You think he'll be all right?
+
+615
+00:50:56,386 --> 00:50:57,470
+Marg can be dangerous.
+
+616
+00:50:57,637 --> 00:51:00,932
+It probably depends on how well
+he understands female psychology.
+
+617
+00:51:02,475 --> 00:51:04,352
+I don't think he knows
+the first thing about it.
+
+618
+00:51:05,061 --> 00:51:05,895
+Perhaps.
+
+619
+00:51:06,896 --> 00:51:08,940
+But you can never be sure
+about us Dinks.
+
+620
+00:51:16,364 --> 00:51:18,366
+- Excellent, Gorda.
+- Thank you, mistress.
+
+621
+00:51:30,753 --> 00:51:33,673
+Does the mistress wish something
+done with this ugly one?
+
+622
+00:51:38,845 --> 00:51:41,931
+No, I may want him after I see
+the gruel wagons loaded.
+
+623
+00:51:53,776 --> 00:51:54,485
+Get up!
+
+624
+00:51:55,236 --> 00:51:56,779
+How dare you sit with me.
+
+625
+00:51:57,030 --> 00:51:59,782
+Oh. Oh, I'm sorry, mistress.
+
+626
+00:51:59,949 --> 00:52:02,785
+I--I'm--I'm so used to sitting
+with my wives when they take--
+
+627
+00:52:02,952 --> 00:52:06,289
+Silence!
+You've had no permission to speak.
+
+628
+00:52:06,456 --> 00:52:07,498
+Yes, mistress.
+
+629
+00:52:12,795 --> 00:52:13,921
+You said wives.
+
+630
+00:52:15,006 --> 00:52:16,966
+Did you have several wives
+at the same time?
+
+631
+00:52:17,425 --> 00:52:19,052
+I only had 14.
+
+632
+00:52:19,719 --> 00:52:20,762
+Some had more.
+
+633
+00:52:21,429 --> 00:52:22,263
+Fourteen?
+
+634
+00:52:24,015 --> 00:52:27,060
+Huh! Well, you must've used
+them for many duties.
+
+635
+00:52:27,644 --> 00:52:30,813
+- Cooking, weaving, field work?
+- No, no, mistress.
+
+636
+00:52:30,980 --> 00:52:34,859
+Our wives are used only
+to please us and to bare children.
+
+637
+00:52:38,738 --> 00:52:40,239
+Gorda, you're being a nuisance.
+
+638
+00:52:40,823 --> 00:52:42,825
+Get out! All of you, get out!
+
+639
+00:52:54,253 --> 00:52:55,922
+Typical male vanity.
+
+640
+00:53:02,679 --> 00:53:06,015
+Fourteen wives is totally ridiculous.
+
+641
+00:53:13,898 --> 00:53:17,819
+A male hasn't lived who could
+properly see to just one of us.
+
+642
+00:53:22,281 --> 00:53:24,283
+Well, you found that
+to be true, didn't you?
+
+643
+00:53:26,369 --> 00:53:29,288
+I've had 41 children in
+the last five years, mistress.
+
+644
+00:53:30,540 --> 00:53:31,666
+You're lying.
+
+645
+00:53:35,878 --> 00:53:39,006
+The male creature is unable
+to produce children in those numbers.
+
+646
+00:53:39,590 --> 00:53:41,175
+Your bodies as feeble
+as your intellect
+
+647
+00:53:41,342 --> 00:53:42,760
+and just as unreliable.
+
+648
+00:53:43,094 --> 00:53:44,053
+But, mistress,
+
+649
+00:53:45,388 --> 00:53:48,349
+the males in my country
+are trained from childhood
+
+650
+00:53:48,516 --> 00:53:52,812
+in certain practices
+which...make us different.
+
+651
+00:54:01,821 --> 00:54:02,613
+Practices?
+
+652
+00:54:03,823 --> 00:54:04,866
+What are they? Show me.
+
+653
+00:54:06,284 --> 00:54:07,201
+Oh, well...
+
+654
+00:54:08,828 --> 00:54:11,038
+Well, first, I need strength.
+
+655
+00:54:14,125 --> 00:54:16,127
+And then, of course,
+we would require a quiet place.
+
+656
+00:54:22,550 --> 00:54:23,259
+Gorda.
+
+657
+00:54:24,010 --> 00:54:24,886
+Gorda!
+
+658
+00:54:27,972 --> 00:54:28,723
+Yes, mistress?
+
+659
+00:54:28,890 --> 00:54:30,433
+Have this food brought upstairs.
+
+660
+00:54:30,725 --> 00:54:33,311
+And tell Partha
+that he'll be responsible
+
+661
+00:54:33,478 --> 00:54:34,771
+for the gruel shipments today.
+
+662
+00:54:35,897 --> 00:54:36,606
+Come.
+
+663
+00:54:42,111 --> 00:54:44,655
+Four pots.
+Ship to the village later today.
+
+664
+00:54:46,407 --> 00:54:49,243
+Gorda, have you seen your mistress?
+
+665
+00:54:49,410 --> 00:54:51,287
+She is upstairs
+and has asked for wine.
+
+666
+00:54:52,038 --> 00:54:54,373
+- May I hurry there, please?
+- And the outsider who--
+
+667
+00:54:54,540 --> 00:54:57,376
+He is with her, mistress.
+May I hurry, please?
+
+668
+00:54:57,752 --> 00:54:58,503
+All right.
+
+669
+00:55:00,505 --> 00:55:02,089
+Wine, does that mean anything?
+
+670
+00:55:02,673 --> 00:55:05,301
+It's kept for guests, mainly,
+Marg rarely takes any.
+
+671
+00:55:05,968 --> 00:55:07,553
+They're almost finished making
+the gruel.
+
+672
+00:55:18,147 --> 00:55:19,857
+Mm, it's the proper color.
+
+673
+00:55:24,070 --> 00:55:26,239
+Well, get out.
+
+674
+00:55:31,702 --> 00:55:32,495
+Out!
+
+675
+00:55:44,674 --> 00:55:46,008
+You've tricked me before.
+
+676
+00:55:46,509 --> 00:55:49,262
+If you're lying about
+any part of this...
+
+677
+00:55:50,847 --> 00:55:53,891
+Eat! Stop dawdling over your food.
+
+678
+00:56:08,489 --> 00:56:09,615
+Mm, good.
+
+679
+00:56:10,116 --> 00:56:11,534
+Wine is necessary?
+
+680
+00:56:12,451 --> 00:56:15,663
+A proper wine is most important
+to the ritual, mistress.
+
+681
+00:56:17,623 --> 00:56:19,292
+'Course this isn't exactly
+the right kind--
+
+682
+00:56:19,625 --> 00:56:21,127
+No, please don't.
+
+683
+00:56:23,838 --> 00:56:26,048
+It's all right, Dink.
+I just wanted to sure of something.
+
+684
+00:56:27,008 --> 00:56:28,050
+Get up and eat.
+
+685
+00:56:33,890 --> 00:56:35,308
+You frighten me, mistress.
+
+686
+00:56:37,018 --> 00:56:38,728
+Nothing will work if I'm frightened.
+
+687
+00:56:39,186 --> 00:56:41,731
+I'm not angry with you.
+
+688
+00:56:42,773 --> 00:56:43,691
+See?
+
+689
+00:56:44,775 --> 00:56:49,155
+I'm quite...pleased with you.
+
+690
+00:56:51,365 --> 00:56:54,285
+While you're in my quarters,
+you may take certain liberties.
+
+691
+00:56:55,953 --> 00:56:57,914
+You are permitted to look up at me.
+
+692
+00:56:58,456 --> 00:56:59,790
+To speak freely.
+
+693
+00:56:59,957 --> 00:57:02,543
+And...touch you as necessary?
+
+694
+00:57:03,044 --> 00:57:04,754
+Of course you can touch me.
+
+695
+00:57:06,255 --> 00:57:08,049
+Just why do you think you're here?
+
+696
+00:57:11,052 --> 00:57:11,677
+All right.
+
+697
+00:57:14,513 --> 00:57:15,264
+Now we begin.
+
+698
+00:57:17,934 --> 00:57:20,686
+- This will be for you.
+- I don't care for any wine.
+
+699
+00:57:22,271 --> 00:57:24,523
+Oh, but this is necessary, mistress.
+
+700
+00:57:25,524 --> 00:57:29,236
+We must... join
+in chemical conditioning.
+
+701
+00:57:29,904 --> 00:57:30,738
+Conditioning?
+
+702
+00:57:31,322 --> 00:57:32,823
+Oh, you must drink it, mistress.
+
+703
+00:57:33,866 --> 00:57:38,412
+My body has been trained
+from childhood to be excited
+
+704
+00:57:38,579 --> 00:57:41,999
+by the action of wine
+on your biochemical structure.
+
+705
+00:57:49,298 --> 00:57:50,257
+All of it, mistress.
+
+706
+00:58:00,893 --> 00:58:04,021
+Our chemical configurations
+must balance.
+
+707
+00:58:06,065 --> 00:58:06,649
+Now...
+
+708
+00:58:10,361 --> 00:58:11,362
+The first test.
+
+709
+00:58:25,876 --> 00:58:26,877
+That's strange.
+
+710
+00:58:27,878 --> 00:58:29,797
+I should feel our balance beginning.
+
+711
+00:58:31,424 --> 00:58:32,550
+Do you feel any balance yet?
+
+712
+00:58:34,176 --> 00:58:35,428
+I seem to feel something.
+
+713
+00:58:49,108 --> 00:58:50,776
+I definitely feel something.
+
+714
+00:58:50,943 --> 00:58:52,528
+Yes, it's beginning.
+
+715
+00:58:54,280 --> 00:58:56,657
+But it's only a shadow
+of what it should be.
+
+716
+00:58:58,117 --> 00:59:01,537
+We'll need a...second assimilation.
+
+717
+00:59:09,920 --> 00:59:10,921
+All of it, mistress.
+
+718
+00:59:12,006 --> 00:59:13,924
+Balance is critical at this point.
+
+719
+00:59:27,646 --> 00:59:29,356
+The entire place could be cleaner.
+
+720
+00:59:30,149 --> 00:59:31,257
+How long has it been
+since the equipment
+
+721
+00:59:31,281 --> 00:59:32,651
+had a thorough going-over?
+
+722
+00:59:33,778 --> 00:59:35,404
+And I've other complaints, too.
+
+723
+00:59:36,363 --> 00:59:38,157
+The fires are built wastefully,
+
+724
+00:59:38,574 --> 00:59:41,243
+requiring too much fuel
+for too little heat.
+
+725
+00:59:43,079 --> 00:59:44,497
+The gruel is far too thin.
+
+726
+00:59:45,539 --> 00:59:48,209
+Altogether, you've been careless
+in a number of things.
+
+727
+00:59:48,793 --> 00:59:50,419
+But I'm sure you'll try harder now.
+
+728
+00:59:51,212 --> 00:59:53,464
+I'll say nothing of this
+to the household mistress.
+
+729
+00:59:53,798 --> 00:59:54,799
+Just this once.
+
+730
+00:59:57,510 --> 00:59:59,512
+- Partha.
+- Yes, mistress.
+
+731
+00:59:59,970 --> 01:00:01,180
+I need some exercise.
+
+732
+01:00:01,514 --> 01:00:02,348
+He'll ride with me.
+
+733
+01:00:03,516 --> 01:00:04,183
+Two horses.
+
+734
+01:00:14,610 --> 01:00:19,740
+You...promised...we'd be balanced.
+
+735
+01:00:21,492 --> 01:00:24,453
+I know I'm balanced
+because I feel balanced.
+
+736
+01:00:24,620 --> 01:00:26,539
+Perfectly, perfectly!
+
+737
+01:00:26,705 --> 01:00:28,415
+Perfectly? Not quite.
+
+738
+01:00:29,166 --> 01:00:35,297
+Our bio...our bio...you-know-what's
+are nearly there, pussycat.
+
+739
+01:00:38,175 --> 01:00:41,512
+See here, Dink. You may not call me...
+
+740
+01:00:44,014 --> 01:00:45,182
+What did you call me?
+
+741
+01:00:47,268 --> 01:00:48,144
+Pussycat
+
+742
+01:00:52,690 --> 01:00:54,775
+Pussycat.
+
+743
+01:00:55,943 --> 01:00:59,155
+You don't talk like
+a proper Dink-Dink.
+
+744
+01:00:59,363 --> 01:01:04,785
+You certainly don't act like
+a proper Dink-Dink.
+
+745
+01:01:05,619 --> 01:01:07,413
+Dink, Dink.
+
+746
+01:01:08,289 --> 01:01:09,748
+Dink.
+
+747
+01:01:11,500 --> 01:01:12,960
+What shall I name you?
+
+748
+01:01:14,211 --> 01:01:15,296
+Already got a name.
+
+749
+01:01:16,338 --> 01:01:17,506
+Say hello to Rip.
+
+750
+01:01:18,465 --> 01:01:19,175
+Rip?
+
+751
+01:01:20,217 --> 01:01:21,886
+Rip Van Winkle.
+
+752
+01:01:22,887 --> 01:01:28,601
+Born February 3, 1944, Fire Creek,
+Colorado, in the good old US of A.
+
+753
+01:01:28,893 --> 01:01:30,519
+Colorado?
+
+754
+01:01:31,145 --> 01:01:33,856
+Mm-hmm.
+What do you think of that, my girl?
+
+755
+01:01:39,028 --> 01:01:43,824
+I know I'm balanced.
+Why aren't you balanced?
+
+756
+01:01:45,576 --> 01:01:49,580
+Well, it...because it takes a while
+at my age.
+
+757
+01:01:50,039 --> 01:01:54,126
+Born 1944, that makes me
+189 years old.
+
+758
+01:01:57,129 --> 01:01:58,214
+How 'bout that?
+
+759
+01:01:58,881 --> 01:02:00,382
+Marg of the Confederacy
+
+760
+01:02:00,549 --> 01:02:05,596
+trapped in the clutches of
+a 20th century male chauvinist pig.
+
+761
+01:02:08,641 --> 01:02:10,309
+Mm. Who's willing to admit
+
+762
+01:02:10,476 --> 01:02:16,982
+that females in charge is no more
+upside-down than our system was.
+
+763
+01:02:18,484 --> 01:02:21,278
+Women's lib. Men's lib.
+
+764
+01:02:22,529 --> 01:02:24,865
+What do you say
+we dump 'em both, Marg?
+
+765
+01:02:26,367 --> 01:02:27,409
+People's lib.
+
+766
+01:02:28,369 --> 01:02:30,412
+Are you for people's lib?
+
+767
+01:02:31,080 --> 01:02:32,665
+I'm for balance!
+
+768
+01:02:37,002 --> 01:02:37,962
+Please.
+
+769
+01:02:39,797 --> 01:02:40,714
+Please.
+
+770
+01:02:42,132 --> 01:02:43,550
+What a lovely word.
+
+771
+01:02:47,680 --> 01:02:49,014
+Please.
+
+772
+01:02:54,186 --> 01:02:56,313
+I don't think we need
+any more of this, Marg.
+
+773
+01:02:57,523 --> 01:02:58,274
+We're there.
+
+774
+01:02:59,733 --> 01:03:01,151
+No more words.
+
+775
+01:03:02,194 --> 01:03:06,323
+I think we're ready for
+a little nonverbal mutual...
+
+776
+01:03:08,450 --> 01:03:09,451
+respect.
+
+777
+01:03:45,571 --> 01:03:46,905
+Marg, it's Kreegs!
+
+778
+01:03:52,202 --> 01:03:52,995
+Get out of here!
+
+779
+01:03:53,662 --> 01:03:54,621
+Outside!
+
+780
+01:03:56,415 --> 01:03:57,499
+I am going.
+
+781
+01:03:58,500 --> 01:03:59,543
+You, come!
+
+782
+01:04:00,336 --> 01:04:01,003
+Pardon me.
+
+783
+01:04:31,283 --> 01:04:31,992
+Shoot him!
+
+784
+01:04:33,827 --> 01:04:34,495
+Partha!
+
+785
+01:04:36,789 --> 01:04:37,664
+What are you doing?
+
+786
+01:04:38,499 --> 01:04:39,416
+You're being foolish.
+
+787
+01:04:39,792 --> 01:04:41,794
+I'll give you all the food
+you can carry.
+
+788
+01:04:42,252 --> 01:04:44,088
+Just leave this household as it is
+
+789
+01:04:44,254 --> 01:04:47,424
+and I will be able to continue
+to supply you any time you come here.
+
+790
+01:04:47,758 --> 01:04:49,968
+Yes. Your land very rich.
+
+791
+01:04:51,762 --> 01:04:53,013
+We want the secret.
+
+792
+01:04:53,889 --> 01:04:54,556
+Secret?
+
+793
+01:04:55,057 --> 01:04:58,435
+Yes. How you turn men
+into frightened rabbits.
+
+794
+01:05:00,187 --> 01:05:02,106
+You offer farm goods
+when you have that?
+
+795
+01:05:07,152 --> 01:05:09,571
+Gorda.
+Did everyone get the gruel last night?
+
+796
+01:05:09,738 --> 01:05:10,739
+- What?
+- The gruel!
+
+797
+01:05:10,906 --> 01:05:13,450
+- Did all the Dinks eat the gruel?
+- Stop that!
+
+798
+01:05:15,828 --> 01:05:16,787
+Yeah, I guess they did.
+
+799
+01:05:17,413 --> 01:05:17,996
+Come on.
+
+800
+01:05:18,997 --> 01:05:20,874
+I tell you, there is no secret.
+
+801
+01:05:21,083 --> 01:05:21,750
+You lie!
+
+802
+01:05:22,251 --> 01:05:22,835
+Move!
+
+803
+01:05:23,752 --> 01:05:25,671
+- Move!
+- There is no secret!
+
+804
+01:05:26,380 --> 01:05:30,092
+Our males know life is pleasant here,
+their needs are cared for.
+
+805
+01:05:32,928 --> 01:05:34,972
+You lie to a manly soldier!
+
+806
+01:05:37,015 --> 01:05:38,016
+Now tell!
+
+807
+01:05:39,059 --> 01:05:41,270
+Why do wagons come here each day?
+
+808
+01:05:42,396 --> 01:05:44,940
+From here, what do they take?
+
+809
+01:05:53,198 --> 01:05:54,533
+You do not fear me.
+
+810
+01:05:54,783 --> 01:05:55,659
+Soldiers.
+
+811
+01:05:57,244 --> 01:05:58,829
+Bring other female.
+
+812
+01:06:00,456 --> 01:06:01,373
+What can we do?
+
+813
+01:06:03,083 --> 01:06:03,667
+Do?
+
+814
+01:06:04,793 --> 01:06:06,044
+There are only six of them.
+
+815
+01:06:07,504 --> 01:06:09,047
+Look how many there are of us.
+
+816
+01:06:13,677 --> 01:06:15,762
+This female has also lied.
+
+817
+01:06:28,442 --> 01:06:29,193
+I'm sorry.
+
+818
+01:06:30,277 --> 01:06:31,737
+I hoped you'd seen them and escaped.
+
+819
+01:06:33,780 --> 01:06:35,699
+We show reason to fear.
+
+820
+01:06:53,425 --> 01:06:55,052
+Fight! Fight or they'll kill you!
+
+821
+01:07:20,869 --> 01:07:22,037
+Well, come on!
+
+822
+01:08:25,559 --> 01:08:26,602
+Careful, my friend.
+
+823
+01:08:29,187 --> 01:08:29,771
+Harper!
+
+824
+01:08:30,981 --> 01:08:32,983
+Harper! Are you all right?
+
+825
+01:08:42,701 --> 01:08:44,453
+You were doing very well
+without our help.
+
+826
+01:08:44,620 --> 01:08:46,079
+Marg, are you sure you're all right?
+
+827
+01:08:47,164 --> 01:08:48,206
+They fought for me.
+
+828
+01:08:49,416 --> 01:08:50,626
+My Dinks fought for me.
+
+829
+01:08:50,876 --> 01:08:52,419
+Because they're no longer drugged.
+
+830
+01:08:52,794 --> 01:08:54,254
+We'd all be dead if they were.
+
+831
+01:08:54,421 --> 01:08:56,057
+Know every household
+has fought like this.
+
+832
+01:08:56,081 --> 01:08:57,716
+It's happened over
+the entire Confederacy.
+
+833
+01:08:58,258 --> 01:09:01,553
+Connor, we need you. I just spoke
+to Pax, Kimbridge is hanging on.
+
+834
+01:09:02,387 --> 01:09:04,306
+We almost made it to the subshuttle
+last night.
+
+835
+01:09:04,473 --> 01:09:06,892
+Well, there's still a chance if we can
+make the subshuttle fast enough.
+
+836
+01:09:07,100 --> 01:09:09,394
+Gorda, we need two fast horses!
+
+837
+01:09:09,770 --> 01:09:10,854
+You can use the medikit here.
+
+838
+01:09:18,028 --> 01:09:19,237
+Here are 200 horses!
+
+839
+01:09:19,821 --> 01:09:22,949
+Come on! Connor,
+Baylok, Isiah, get in!
+
+840
+01:09:25,994 --> 01:09:28,038
+HS, help with the injured,
+I'll be back for you.
+
+841
+01:09:40,842 --> 01:09:41,843
+It's agreed, then?
+
+842
+01:09:42,594 --> 01:09:45,972
+All our households will try it
+without the extract?
+
+843
+01:09:46,390 --> 01:09:47,057
+Agreed.
+
+844
+01:09:48,016 --> 01:09:48,600
+Agreed.
+
+845
+01:09:48,850 --> 01:09:49,559
+Agreed.
+
+846
+01:09:49,935 --> 01:09:51,353
+But it won't be the same.
+
+847
+01:09:51,812 --> 01:09:54,898
+Imagine a household
+with undrugged males underfoot.
+
+848
+01:09:55,190 --> 01:09:56,817
+Chattering, making mischief.
+
+849
+01:09:56,983 --> 01:09:58,193
+And children, perhaps.
+
+850
+01:10:04,700 --> 01:10:07,953
+It's true, Isiah, there were
+millions of cars in my century.
+
+851
+01:10:08,120 --> 01:10:09,287
+All over the world.
+
+852
+01:10:25,220 --> 01:10:25,929
+HS.
+
+853
+01:10:26,638 --> 01:10:27,389
+Any word yet?
+
+854
+01:10:27,848 --> 01:10:30,892
+Yes, I just received a message that
+Jonathan reached surgery in time.
+
+855
+01:10:31,351 --> 01:10:33,186
+- And the Pater will be all right?
+- Yes.
+
+856
+01:10:33,353 --> 01:10:34,479
+Oh, that's good news.
+
+857
+01:10:35,188 --> 01:10:36,565
+For you, friend.
+
+858
+01:10:37,816 --> 01:10:40,569
+No thanks, tiger.
+So you'll be staying on?
+
+859
+01:10:47,242 --> 01:10:49,077
+I'm almost sorry
+I can't stay on, Marg.
+
+860
+01:10:49,911 --> 01:10:50,662
+I'm not.
+
+861
+01:10:51,496 --> 01:10:54,166
+You're the worst of everything
+that's vile in the male species.
+
+862
+01:10:55,000 --> 01:10:58,253
+She laughed at me
+when I told her about the 14 wives.
+
+863
+01:10:59,004 --> 01:11:00,213
+Your 41 children.
+
+864
+01:11:00,756 --> 01:11:03,258
+Your...secret ritual.
+
+865
+01:11:04,384 --> 01:11:07,596
+I've never felt so demeaned,
+so insulted, so--
+
+866
+01:11:07,763 --> 01:11:08,430
+Hungover?
+
+867
+01:11:16,938 --> 01:11:18,064
+Come back, Dylan Hunt.
+
+868
+01:11:19,608 --> 01:11:20,525
+On equal terms?
+
+869
+01:11:21,610 --> 01:11:23,904
+On balanced terms.
+
+870
+01:11:27,741 --> 01:11:30,118
+- Men.
+- They have their place.
+
+871
+01:11:54,935 --> 01:11:55,811
+Here's Dylan now.
+
+872
+01:11:56,978 --> 01:11:58,980
+Pater, it's good to see you
+looking so well again.
+
+873
+01:11:59,314 --> 01:12:01,066
+He'll be running with our young people
+in a few weeks.
+
+874
+01:12:03,652 --> 01:12:07,239
+Harper-Smythe tells me you've had some
+most unusual experiences.
+
+875
+01:12:07,572 --> 01:12:10,575
+Oh, yes, Pater. Did she mention that
+I was her Dink for a while?
+
+876
+01:12:11,034 --> 01:12:12,536
+As a matter of fact, she didn't.
+
+877
+01:12:14,204 --> 01:12:16,289
+I don't think we should tire the Pater
+with too many stories.
+
+878
+01:12:16,456 --> 01:12:19,125
+Oh, I want to know.
+It sounds very interesting.
+
+879
+01:12:20,335 --> 01:12:24,381
+No, actually not. Dylan was drugged,
+he hardly knew what was going on.
+
+880
+01:12:25,173 --> 01:12:27,926
+Actually, most of it's
+beginning to come back to me, HS.
+
+881
+01:12:31,096 --> 01:12:33,098
+Oh, except the part with you,
+that's a total blank.
+
+882
+01:12:34,391 --> 01:12:35,350
+Were you a good mistress??
+
+883
+01:12:36,017 --> 01:12:38,311
+Not nearly as good as Marg, I'm sure.
+
+884
+01:12:39,020 --> 01:12:39,771
+Marg?
+
+885
+01:12:43,149 --> 01:12:45,735
+I don't think we should tire
+the Pater with too many stories.
+
+886
+01:12:53,535 --> 01:12:54,995
+<i>The 22nd century,</i>
+
+887
+01:12:55,245 --> 01:12:56,830
+<i>a reborn planet Earth,</i>
+
+888
+01:12:57,247 --> 01:12:59,165
+<i>a thousand new adventures.</i>
+
+889
+01:12:59,833 --> 01:13:01,293
+<i>This has been one of them.</i>
+

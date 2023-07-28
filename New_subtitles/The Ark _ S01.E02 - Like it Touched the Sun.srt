@@ -1,0 +1,3320 @@
+﻿1
+00:00:03,302 --> 00:00:03,902
+<font face="Calibri Light"><i>Peringatan Benturan</i></font>
+
+2
+00:00:07,703 --> 00:00:10,010
+<font face="Calibri Light">Ada kerusakan di pesawat.
+Kita harus keluarkan semua orang dari sini.</font>
+
+3
+00:00:10,010 --> 00:00:12,057
+<font face="Calibri Light">Cepat, cepat, cepat.</font>
+
+4
+00:00:13,458 --> 00:00:14,456
+<font face="Calibri Light">Susan, tidak!</font>
+
+5
+00:00:14,457 --> 00:00:17,300
+<font face="Calibri Light">Susan, Susan.
+Tidak. Tidak, tidak, tidak.</font>
+
+6
+00:00:17,300 --> 00:00:19,507
+<font face="Calibri Light">Trent!/
+Kumohon, aku harus mengeluarkannya!</font>
+
+7
+00:00:20,007 --> 00:00:21,431
+<font face="Calibri Light">Tak ada yang memberitahu kita
+apa yang terjadi pada pesawat ini.</font>
+
+8
+00:00:21,632 --> 00:00:22,430
+<font face="Calibri Light">Kita tidak tahu.</font>
+
+9
+00:00:22,431 --> 00:00:24,563
+<font face="Calibri Light">Kita hanya punya persediaan untuk
+4 minggu saat ini.</font>
+
+10
+00:00:24,763 --> 00:00:26,635
+<font face="Calibri Light">Kita yakin dengan alat penyulingan air</font>
+
+11
+00:00:26,635 --> 00:00:27,853
+<font face="Calibri Light">dapat dipasang kembali agar berfungsi
+di pesawat ini.</font>
+
+12
+00:00:27,853 --> 00:00:29,986
+<font face="Calibri Light">Kita hanya perlu membuat
+alatnya berfungsi.</font>
+
+13
+00:00:29,986 --> 00:00:31,770
+<font face="Calibri Light">Aku ingin dengar langsung
+dari Kapten Lester?</font>
+
+14
+00:00:31,770 --> 00:00:33,468
+<font face="Calibri Light">Dimana Kapten Lester?/
+Dia telah meninggal.</font>
+
+15
+00:00:33,468 --> 00:00:35,078
+<font face="Calibri Light">Mereka semua telah meninggal
+selama insiden terjadi.</font>
+
+16
+00:00:35,078 --> 00:00:36,210
+<font face="Calibri Light">Kita bertiga yang berada di depan kalian</font>
+
+17
+00:00:36,210 --> 00:00:37,428
+<font face="Calibri Light">adalah para petugas tertinggi</font>
+
+18
+00:00:37,428 --> 00:00:38,677
+<font face="Calibri Light">yang tersisa di pesawat ini.</font>
+
+19
+00:00:38,677 --> 00:00:41,180
+<font face="Calibri Light">Tak boleh ada seorangpun
+yang tahu tentang kita.</font>
+
+20
+00:00:41,780 --> 00:00:43,030
+<font face="Calibri Light"><i>Tingkat kadar oksigen menurun.</i></font>
+
+21
+00:00:43,930 --> 00:00:45,175
+<font face="Calibri Light">Aku perlu kau.</font>
+
+22
+00:00:45,175 --> 00:00:47,699
+<font face="Calibri Light">Kau menyia-nyiakan oksigen./
+Aku mencintaimu.</font>
+
+23
+00:00:48,599 --> 00:00:50,833
+<font face="Calibri Light">Aku sangat menyesal.</font>
+
+24
+00:00:50,833 --> 00:00:52,356
+<font face="Calibri Light">Aku tak bisa memperbaikinya./
+Kenapa kau tak bisa?</font>
+
+25
+00:00:52,356 --> 00:00:54,141
+<font face="Calibri Light">Karena namaku bukan Jasper Dades.</font>
+
+26
+00:00:54,141 --> 00:00:55,446
+<font face="Calibri Light">Aku telah mengunjungi banyak tempat.</font>
+
+27
+00:00:55,446 --> 00:00:56,969
+<font face="Calibri Light">Bertemu banyak orang di sana.</font>
+
+28
+00:00:56,969 --> 00:00:59,276
+<font face="Calibri Light">Aku yakin namanya adalah Denise?</font>
+
+29
+00:01:16,066 --> 00:01:17,155
+<font face="Calibri Light">Jangan terlalu dekat.</font>
+
+30
+00:01:17,255 --> 00:01:20,258
+<font face="Calibri Light"><i>Lalu bagaimana caranya kita tahu
+apa yang menghantam pesawat?</i></font>
+
+31
+00:01:20,558 --> 00:01:22,169
+<font face="Calibri Light">Amati dahulu apa yang
+kau lihat disana,</font>
+
+32
+00:01:22,169 --> 00:01:26,551
+{\an1}<font face="Candara Light">{\an7}(CETA: Crew & Equipment Translation Aid) adalah
+alat bantu transportasi untuk spacewalker.</font>
+
+33
+00:01:22,169 --> 00:01:24,388
+{\an8}<font face="Calibri Light">lalu kaitkan ke bagian jalur CETA./
+<i>Dimengerti.</i></font>
+
+34
+00:01:24,388 --> 00:01:26,551
+{\an8}<font face="Calibri Light"><i>Bergerak ke posisi jalur CETA.
+Lane, kau ambil kanan.</i></font>
+
+35
+00:01:26,551 --> 00:01:27,900
+<font face="Calibri Light"><i>Scholnick, kau ambil kiri.</i></font>
+
+36
+00:01:30,211 --> 00:01:31,342
+<font face="Calibri Light">Pengait terpasang.</font>
+
+37
+00:01:32,396 --> 00:01:33,658
+<font face="Calibri Light">Pengait terpasang.</font>
+
+38
+00:01:33,658 --> 00:01:35,051
+<font face="Calibri Light">Pengait terpasang.</font>
+
+39
+00:01:38,098 --> 00:01:41,753
+<font face="Calibri Light">Tak ada yang tersisa dari
+ruangan hibernasi ini.</font>
+
+40
+00:01:41,753 --> 00:01:44,669
+<font face="Calibri Light">Hancur berantakan.</font>
+
+41
+00:01:44,669 --> 00:01:47,324
+<font face="Calibri Light">Apa ada bongkahan meteor, es,
+atau sejenisnya?</font>
+
+42
+00:01:47,324 --> 00:01:49,413
+<font face="Calibri Light">Aku tahu apa yang kulihat, Sharon.</font>
+
+43
+00:01:51,720 --> 00:01:54,505
+<font face="Calibri Light">Aku melihat ada tekanan berlebih
+pada rangka penopang roda.</font>
+
+44
+00:01:56,507 --> 00:01:59,597
+<font face="Calibri Light">Aku tak melihat apapun./
+Sial, aku melihatnya.</font>
+
+45
+00:01:59,597 --> 00:02:01,834
+<font face="Calibri Light">Penopang bagian kanan mulai hancur.
+Lepaskan kaitnya sekarang.</font>
+
+46
+00:02:01,834 --> 00:02:03,488
+<font face="Calibri Light">Menjauh, menjauh!</font>
+
+47
+00:02:06,038 --> 00:02:07,692
+<font face="Calibri Light">Pergi dari sana, Lane.</font>
+
+48
+00:02:20,444 --> 00:02:21,924
+<font face="Calibri Light">Lane!</font>
+
+49
+00:02:25,754 --> 00:02:27,277
+<font face="Calibri Light">Aku memegangmu, kawan.
+Aku memegangmu.</font>
+
+50
+00:02:27,277 --> 00:02:29,236
+<font face="Calibri Light">Scholnick, bantu aku.</font>
+
+51
+00:02:29,236 --> 00:02:32,400
+<font face="Calibri Light">Brice, status./
+Scholnick.</font>
+
+52
+00:02:32,400 --> 00:02:35,011
+<font face="Calibri Light"><i>Aku kehilangan kontak
+dengan Scholnick.</i></font>
+
+53
+00:02:38,723 --> 00:02:40,116
+<font face="Calibri Light">Ya Tuhan.</font>
+
+54
+00:02:42,466 --> 00:02:45,121
+<font face="Calibri Light">Sialan.
+Bagaimana dengan Lane?</font>
+
+55
+00:02:45,121 --> 00:02:46,818
+<font face="Calibri Light"><i>Aku bersamanya.</i>
+Tapi dia pingsan.</font>
+
+56
+00:02:46,818 --> 00:02:48,559
+<font face="Calibri Light">Dia terkena benturan
+keras dikepala,</font>
+
+57
+00:02:48,559 --> 00:02:50,257
+<font face="Calibri Light"><i>tapi sepertinya helmnya
+tidak ada kerusakan.</i></font>
+
+58
+00:02:50,257 --> 00:02:51,736
+<font face="Calibri Light">Aku melihat keadaan dari Lane.</font>
+
+59
+00:02:51,736 --> 00:02:53,912
+<font face="Calibri Light">Detak jantung 45,
+denyut nadi 84,</font>
+
+60
+00:02:53,912 --> 00:02:55,653
+<font face="Calibri Light">tapi pernapasannya sangat rendah.</font>
+
+61
+00:02:55,653 --> 00:02:57,742
+<font face="Calibri Light">Bawa Lane ke pintu masuk.
+Aku segera ke sana.</font>
+
+62
+00:02:57,742 --> 00:03:00,832
+<font face="Calibri Light">Dr. Kabir, temui aku
+segera di pintu masuk 23.</font>
+
+63
+00:03:14,672 --> 00:03:17,414
+<font face="Calibri Light">Aku tak menepati janjiku./
+Janji apa?</font>
+
+64
+00:03:17,414 --> 00:03:19,890
+<font face="Calibri Light">Aku janji pada istrinya Scholnick.
+Kalau aku akan menjaganya.</font>
+
+65
+00:03:34,614 --> 00:03:42,614
+<font face="Calibri Light">Translator & Synced Timer :
+<font color="#00ff80">Lothbrok</font></font>
+
+66
+00:03:43,638 --> 00:03:45,438
+<font face="Calibri Light">Episode 02
+<font color="#ffff00">- Like it Touched the Sun -</font></font>
+
+67
+00:04:06,202 --> 00:04:09,551
+<font face="Calibri Light">Aku disini untuk tes fisik pasca-hibernasi
+seperti yang kau minta, Dr. Kabir.</font>
+
+68
+00:04:09,553 --> 00:04:11,816
+<font face="Calibri Light">Ya Tuhan.
+Letnan. Lane, apa kau baik-baik saja?</font>
+
+69
+00:04:11,816 --> 00:04:15,080
+<font face="Calibri Light">Aku baik-baik saja. Akan jauh lebih baik
+jika saja dokter bisa langsung menyuruhku pergi.</font>
+
+70
+00:04:15,080 --> 00:04:17,648
+<font face="Calibri Light">Kau tidak baik-baik saja.
+Kepalamu kena benturan keras dan terluka.</font>
+
+71
+00:04:17,648 --> 00:04:20,390
+<font face="Calibri Light">Kepalaku pernah kena benturan keras,
+saat berumur 8 tahun.</font>
+
+72
+00:04:20,390 --> 00:04:21,783
+<font face="Calibri Light">Bagian terburuknya, ibuku harus terus
+membuatku tersadar.../</font>
+
+73
+00:04:21,783 --> 00:04:23,915
+<font face="Calibri Light">Dok., aku telah menunggu
+selama tiga jam.</font>
+
+74
+00:04:23,915 --> 00:04:27,136
+<font face="Calibri Light">Ya, Maaf. Seperti yang kau lihat,
+aku kekurangan tenaga bantuan.</font>
+
+75
+00:04:27,136 --> 00:04:30,095
+<font face="Calibri Light">Ya, tapi semuanya seperti
+mau pingsan karena disini panas.</font>
+
+76
+00:04:30,095 --> 00:04:31,880
+<font face="Calibri Light">Bisakah setidaknya kita
+dapat sedikit ruang di sini?</font>
+
+77
+00:04:31,880 --> 00:04:33,577
+<font face="Calibri Light">Maaf, kita harus menyalurkan dayanya</font>
+
+78
+00:04:33,577 --> 00:04:35,579
+<font face="Calibri Light">dari ruang iklim ke ruang perkebunan.</font>
+
+79
+00:04:35,579 --> 00:04:37,799
+<font face="Calibri Light">Makanan lebih utama dari
+kenyamanan pribadi sekarang.</font>
+
+80
+00:04:37,799 --> 00:04:40,192
+<font face="Calibri Light">Jadi, kaulah gadis yang mengambil alih
+bagian Penunjang Kehidupan?/ Ya, itu aku.</font>
+
+81
+00:04:40,192 --> 00:04:42,107
+<font face="Calibri Light">Ada urusan apa kau di ruang kesehatan?</font>
+
+82
+00:04:42,107 --> 00:04:44,196
+<font face="Calibri Light">Kau terlihat sangat sehat bagiku.</font>
+
+83
+00:04:44,196 --> 00:04:46,024
+<font face="Calibri Light">Aku punya janji pemeriksaan.</font>
+
+84
+00:04:46,024 --> 00:04:47,809
+<font face="Calibri Light">Lihat sekelilingmu, nona.</font>
+
+85
+00:04:47,809 --> 00:04:50,246
+<font face="Calibri Light">Semuanya kepanasan, kelaparan
+dan sangat kehausan.</font>
+
+86
+00:04:50,246 --> 00:04:53,075
+<font face="Calibri Light">Dan kau di sini hanya untuk
+mengobrol dengan Dokter?</font>
+
+87
+00:04:53,075 --> 00:04:56,426
+<font face="Calibri Light">Maksudku, aku tak bisa secara tiba-tiba
+menghasilkan makanan ataupun air.</font>
+
+88
+00:04:57,906 --> 00:05:00,561
+<font face="Calibri Light">Kau tahu apa pendapat orang-orang?</font>
+
+89
+00:05:00,561 --> 00:05:04,042
+<font face="Calibri Light">Orang-orang bilang kau membunuh
+pria yang menjabat sebelum dirimu</font>
+
+90
+00:05:04,042 --> 00:05:07,089
+<font face="Calibri Light">jadi kau dapat pekerjaan yang lebih baik./
+Apa?</font>
+
+91
+00:05:07,089 --> 00:05:09,178
+<font face="Calibri Light">Maksudnya, aku bahkan tak tahu
+akan mendapat pekerjaan itu,</font>
+
+92
+00:05:09,178 --> 00:05:11,485
+<font face="Calibri Light">jadi itu benar-benar tidak masuk akal./
+Tolong, tunggu di sebelah sana.</font>
+
+93
+00:05:15,271 --> 00:05:18,709
+<font face="Calibri Light">Kau percaya itu? Banyak sekali
+rumor gila yang bertebaran.</font>
+
+94
+00:05:18,709 --> 00:05:22,670
+<font face="Calibri Light">Ya, aku sudah mendengar semuanya./
+Maksudku, bukan yang jelek-jelek.</font>
+
+95
+00:05:22,670 --> 00:05:25,194
+<font face="Calibri Light">Orang-orang pada bilang kalau
+kita sedang diserang, gak masuk akal.</font>
+
+96
+00:05:25,194 --> 00:05:28,415
+<font face="Calibri Light">Kitalah yang paling jauh dari pesawat
+manapun. Siapa yang bisa menyerang kita?</font>
+
+97
+00:05:28,415 --> 00:05:30,330
+<font face="Calibri Light">Itu sudah jelas sekali,
+semacam hujan meteor</font>
+
+98
+00:05:30,330 --> 00:05:32,201
+<font face="Calibri Light">atau semacam bencana alam.</font>
+
+99
+00:05:32,201 --> 00:05:33,811
+<font face="Calibri Light">Dan kau tahu apa lagi
+yang orang-orang bilang?</font>
+
+100
+00:05:33,811 --> 00:05:36,161
+<font face="Calibri Light">Bahwa itu adalah sabotase
+yang dilakukan oleh orang yang sama.../</font>
+
+101
+00:05:36,161 --> 00:05:37,989
+<font face="Calibri Light">Tolong diamlah..!</font>
+
+102
+00:05:49,871 --> 00:05:51,655
+<font face="Calibri Light">Kau baik-baik saja, Dok.?/
+Maafkan aku.</font>
+
+103
+00:05:51,655 --> 00:05:53,353
+<font face="Calibri Light">Aku tidak bermaksud marah.</font>
+
+104
+00:05:56,878 --> 00:05:58,749
+<font face="Calibri Light">Para Dokter yang lain
+meninggal saat kejadian,</font>
+
+105
+00:05:58,749 --> 00:06:02,392
+<font face="Calibri Light">dan aku harus menangani
+semua orang yang terluka</font>
+
+106
+00:06:02,392 --> 00:06:04,189
+<font face="Calibri Light">dan memeriksa masalah
+pasca-hibernasi semua orang.../</font>
+
+107
+00:06:04,189 --> 00:06:06,496
+<font face="Calibri Light">Apa kau punya cukup waktu istirahat?</font>
+
+108
+00:06:06,496 --> 00:06:08,877
+<font face="Calibri Light">Sejak kita bangun dari hibernasi, tidak.
+Bagaimana bisa?</font>
+
+109
+00:06:08,877 --> 00:06:11,401
+<font face="Calibri Light">Kenapa tidak bisa?
+Kau hanya manusia biasa.</font>
+
+110
+00:06:11,501 --> 00:06:13,547
+<font face="Calibri Light">Dengar, kunci semua pintunya,
+jangan biarkan siapapun masuk,</font>
+
+111
+00:06:13,547 --> 00:06:15,331
+<font face="Calibri Light">dan tidurlah sebentar.
+Itu perintah.</font>
+
+112
+00:06:15,331 --> 00:06:17,594
+<font face="Calibri Light">Sekarang kalau boleh aku permisi,
+aku punya tugas menunggu.</font>
+
+113
+00:06:17,594 --> 00:06:19,988
+<font face="Calibri Light">Kau harus tetap di sini untuk pemantauan.</font>
+
+114
+00:06:19,988 --> 00:06:21,598
+<font face="Calibri Light">Dan kau butuh tidur.</font>
+
+115
+00:06:26,800 --> 00:06:28,500
+<font face="Calibri Light">Siapa selanjutnya?</font>
+
+116
+00:06:31,498 --> 00:06:33,641
+<font face="Calibri Light">Lane, bagaimana keadaanmu?</font>
+
+117
+00:06:33,741 --> 00:06:35,917
+<font face="Calibri Light">Aku baik-baik saja.
+Bagaimana dengan pesawatnya?</font>
+
+118
+00:06:35,917 --> 00:06:38,267
+<font face="Calibri Light">Ya, maksudku, kita hanya
+kehilangan satu orang.</font>
+
+119
+00:06:38,267 --> 00:06:40,617
+<font face="Calibri Light">Ada 5 penopang yang bermasalah,
+tapi penyangganya masih bisa bertahan.</font>
+
+120
+00:06:40,617 --> 00:06:43,925
+<font face="Calibri Light">Jadi itu hanya nasib buruk yang menimpa
+kita saat berada di luar sana?</font>
+
+121
+00:06:43,925 --> 00:06:45,535
+<font face="Calibri Light">Ya, khususnya untuk Scholnick.</font>
+
+122
+00:06:48,146 --> 00:06:51,106
+<font face="Calibri Light">Scholnick adalah pria baik./
+Ya, ya, memang.</font>
+
+123
+00:06:51,106 --> 00:06:52,412
+<font face="Calibri Light">Kau menghadiri pernikahannya, bukan?</font>
+
+124
+00:06:52,412 --> 00:06:54,370
+<font face="Calibri Light">Rasanya sudah lama sekali.</font>
+
+125
+00:06:54,370 --> 00:06:57,417
+<font face="Calibri Light">Kau tahu, sebenarnya akulah yang
+mengenalkannya pada istrinya Kayley.</font>
+
+126
+00:06:57,417 --> 00:06:59,767
+<font face="Calibri Light">Setelah Kayley mencampakanku.</font>
+
+127
+00:06:59,767 --> 00:07:02,726
+<font face="Calibri Light">Sudah kuduga, kau pernah pergi kencan
+bersama Kayley sebelum Scholnick.</font>
+
+128
+00:07:02,726 --> 00:07:04,424
+<font face="Calibri Light">Aku bertaruh kau
+berpidato di pernikahannya.</font>
+
+129
+00:07:04,424 --> 00:07:09,167
+<font face="Calibri Light">Oh Tidak, tidak, tidak.
+Aku tidak diizinkan untuk berpidato.</font>
+
+130
+00:07:09,167 --> 00:07:13,171
+<font face="Calibri Light">Kau tahu, aku penasaran
+apa mereka masih hidup di Bumi.</font>
+
+131
+00:07:13,171 --> 00:07:17,480
+<font face="Calibri Light">Hey, mari kita tetap fokus pada
+orang-orang yang ada di pesawat.</font>
+
+132
+00:07:17,480 --> 00:07:21,179
+<font face="Calibri Light">Mereka bahkan terus bertanya-tanya
+setelah kematian Scholnick.</font>
+
+133
+00:07:21,179 --> 00:07:23,791
+<font face="Calibri Light">Rumor akan semakin parah.
+Apa benar ada sabotase?</font>
+
+134
+00:07:23,791 --> 00:07:25,706
+<font face="Calibri Light">Apa orang yang membunuh Jasper
+juga menyabotase pesawat?</font>
+
+135
+00:07:25,706 --> 00:07:27,025
+<font face="Calibri Light">Kita harus mengatakan
+sesuatu pada orang-orang.</font>
+
+136
+00:07:27,025 --> 00:07:30,953
+<font face="Calibri Light">Yah, sayangnya saat ini kita akan
+mengatakan pada mereka</font>
+
+137
+00:07:31,453 --> 00:07:32,695
+<font face="Calibri Light">bahwa kita tidak tahu.</font>
+
+138
+00:07:43,071 --> 00:07:45,987
+<font face="Calibri Light">Maaf, aku tak bermaksud.</font>
+
+139
+00:07:45,987 --> 00:07:48,250
+<font face="Calibri Light">Kau gadis yang mengambil alih
+bagian Penunjang Kehidupan.</font>
+
+140
+00:07:48,250 --> 00:07:50,818
+<font face="Calibri Light">Ya, tapi aku tak bisa melakukan
+apapun tentang airnya atau.../</font>
+
+141
+00:07:50,818 --> 00:07:53,995
+<font face="Calibri Light">Hey, tidak,
+mereka memberiku pekerjaan lamamu.</font>
+
+142
+00:07:53,995 --> 00:07:56,606
+<font face="Calibri Light">Pengelolaan sampah,
+jadi aku ingin berterima kasih.</font>
+
+143
+00:07:56,606 --> 00:07:58,956
+<font face="Calibri Light">Maaf. Aku tak bermaksud
+membuatmu terbebani dengan itu.</font>
+
+144
+00:07:58,956 --> 00:08:00,871
+<font face="Calibri Light">Tidak, tidak.
+Hey!</font>
+
+145
+00:08:00,871 --> 00:08:04,092
+<font face="Calibri Light">Aku bersungguh-sungguh. Terima kasih.
+Aku butuh pekerjaan.</font>
+
+146
+00:08:04,092 --> 00:08:08,531
+<font face="Calibri Light">Aku dulu bekerja di ruang hibernasi,
+jadi pekerjaan itu sudah tak ada lagi.</font>
+
+147
+00:08:08,531 --> 00:08:09,924
+<font face="Calibri Light">Dan, dengar, aku ingin bisa
+berkontribusi, kau tahu?</font>
+
+148
+00:08:09,924 --> 00:08:13,057
+<font face="Calibri Light">Meskipun harus berurusan
+dengan sampah orang-orang.</font>
+
+149
+00:08:13,057 --> 00:08:15,364
+<font face="Calibri Light">Kau tahu seharusnya membawa
+kotoran kepada Angus, kan?</font>
+
+150
+00:08:15,364 --> 00:08:17,627
+<font face="Calibri Light">Dia menggunakannya sebagai pupuk.</font>
+
+151
+00:08:17,627 --> 00:08:19,629
+<font face="Calibri Light">Kau juga bertanggung-jawab
+menangani air limbah dan air kencing.</font>
+
+152
+00:08:19,629 --> 00:08:21,936
+<font face="Calibri Light">Ya, ya, tentu saja.
+Aku takkan melupakan air kencingnya.</font>
+
+153
+00:08:21,936 --> 00:08:24,634
+<font face="Calibri Light">Hey, air kencing itu penting.
+karena mengandung 95% air.</font>
+
+154
+00:08:24,634 --> 00:08:28,638
+<font face="Calibri Light">Kau tahu itu?/ Tidak, aku tidak tahu itu.
+Aku masih harus banyak belajar.</font>
+
+155
+00:08:28,638 --> 00:08:30,597
+<font face="Calibri Light">Kandungan lainnya adalah 5% sodium,</font>
+
+156
+00:08:30,597 --> 00:08:33,034
+<font face="Calibri Light">kalium, kreatin dan klorida.</font>
+
+157
+00:08:33,034 --> 00:08:34,862
+<font face="Calibri Light">Bagian yang kita buang hanyalah urea.</font>
+
+158
+00:08:34,862 --> 00:08:37,386
+<font face="Calibri Light">Maaf.
+Terlalu banyak informasi.</font>
+
+159
+00:08:37,386 --> 00:08:39,431
+<font face="Calibri Light">Tidak, tidak. Tidak apa-apa.
+Kau tahu banyak hal.</font>
+
+160
+00:08:39,431 --> 00:08:40,824
+<font face="Calibri Light">Kalau boleh tahu, kau berasal darimana ?</font>
+
+161
+00:08:40,824 --> 00:08:42,260
+<font face="Calibri Light">Kepulauan limbah manusia?</font>
+
+162
+00:08:42,260 --> 00:08:44,262
+<font face="Calibri Light">Cincinnati, bisa melalui London,</font>
+
+163
+00:08:44,262 --> 00:08:46,264
+<font face="Calibri Light">bisa melalui New Africa,
+bisa melalui Amsterdam.</font>
+
+164
+00:08:46,264 --> 00:08:47,614
+<font face="Calibri Light">Itulah kenapa orang tak tahu dari
+mana lewat cara bicaraku,</font>
+
+165
+00:08:47,614 --> 00:08:50,442
+<font face="Calibri Light">yang mana... oh.</font>
+
+166
+00:08:50,442 --> 00:08:52,967
+<font face="Calibri Light">Kau bercanda./
+Yap</font>
+
+167
+00:08:52,967 --> 00:08:55,535
+<font face="Calibri Light">Maaf, aku punya kecenderungan
+untuk selalu bicara.</font>
+
+168
+00:08:55,535 --> 00:08:58,377
+<font face="Calibri Light">Tidak apa-apa.</font>
+
+169
+00:08:59,177 --> 00:09:02,303
+<font face="Calibri Light">Bagaimanapun, aku akan senang untuk
+menunjukkan sekeliling padamu.</font>
+
+170
+00:09:02,403 --> 00:09:04,282
+<font face="Calibri Light">Pekerjaan ini sangat menarik
+saat kau sudah terbiasa.</font>
+
+171
+00:09:04,282 --> 00:09:06,589
+<font face="Calibri Light">Mungkin aku takkan pernah
+terbiasa seperti dirimu.</font>
+
+172
+00:09:06,589 --> 00:09:08,983
+<font face="Calibri Light">Tapi, siapa yang tahu?</font>
+
+173
+00:09:08,983 --> 00:09:12,808
+<font face="Calibri Light">Kau terlihat sangat bersemangat,
+jadi mungkin itu bisa menular padaku.</font>
+
+174
+00:09:12,908 --> 00:09:16,064
+<font face="Calibri Light">Akanku lakukan yang terbaik agar
+bisa menularkan semangatku padamu.</font>
+
+175
+00:09:16,164 --> 00:09:19,907
+<font face="Calibri Light">Maksudku, emm.
+Aku harus pergi.../</font>
+
+176
+00:09:26,174 --> 00:09:28,089
+<font face="Calibri Light">"Akanku lakukan yang terbaik agar
+bisa menularkan semangatku padamu"?</font>
+
+177
+00:09:28,089 --> 00:09:29,046
+<font face="Calibri Light">Apa-apaan maksudnya itu?</font>
+
+178
+00:09:33,398 --> 00:09:38,665
+<font face="Calibri Light">Saat kita lepas para jiwa ini
+ke peristirahatan terakhirnya,</font>
+
+179
+00:09:38,665 --> 00:09:41,929
+<font face="Calibri Light">ke tempat tenang nan damai di angkasa,</font>
+
+180
+00:09:41,929 --> 00:09:46,150
+<font face="Calibri Light">biarkan kita di sini yang tetap tinggal
+dan menjadi saksinya.</font>
+
+181
+00:09:46,150 --> 00:09:49,501
+<font face="Calibri Light">Semuanya, silahkan menunjukkan
+rasa hormat terakhir kalian</font>
+
+182
+00:09:49,501 --> 00:09:51,199
+<font face="Calibri Light">lalu pergi ke pekerjaan masing-masing.</font>
+
+183
+00:10:02,823 --> 00:10:05,023
+<font face="Calibri Light">Aku mencintaimu./
+Harris!</font>
+
+184
+00:10:34,329 --> 00:10:35,460
+<font face="Calibri Light">Hentikan! Hentikan!</font>
+
+185
+00:10:37,506 --> 00:10:40,683
+<font face="Calibri Light">Membuang manusia ke luar angkasa berarti
+menyia-nyiakan sumber daya yang berharga</font>
+
+186
+00:10:40,683 --> 00:10:43,381
+<font face="Calibri Light">ketika kita bisa memasukan mereka
+ke dalam NOR drum./ Itu pintar sekali.</font>
+
+187
+00:10:43,381 --> 00:10:47,385
+<font face="Calibri Light">Kau ingin menguraikan mereka ke dalam NOR./
+Maaf, NOR?</font>
+
+188
+00:10:47,385 --> 00:10:49,605
+<font face="Calibri Light">Natural Organic Reduction drum.
+(NOR: Metode Percepatan Pembusukan Manusia)</font>
+
+189
+00:10:49,605 --> 00:10:51,868
+<font face="Calibri Light">Merupakan mekanisme pembusukan
+yang dipercepat.</font>
+
+190
+00:10:51,868 --> 00:10:54,175
+<font face="Calibri Light">Kita punya satu di pesawat untuk
+digunakan saat kita tiba di sebuah planet,</font>
+
+191
+00:10:54,175 --> 00:10:57,178
+<font face="Calibri Light">tapi aku menggunakannya dan
+membakarnya menjadi kompos</font>
+
+192
+00:10:57,178 --> 00:10:59,180
+<font face="Calibri Light">saat hanya sedikit sampah yang ada./
+Tentu saja kau melakukannya.</font>
+
+193
+00:10:59,180 --> 00:11:00,921
+<font face="Calibri Light">Secara pribadi, kupikir kanibalisme
+adalah penistaan.</font>
+
+194
+00:11:00,921 --> 00:11:02,531
+<font face="Calibri Light">Kanibalisme? Siapa yang bicara
+tentang kanibalisme?</font>
+
+195
+00:11:02,531 --> 00:11:04,228
+<font face="Calibri Light">Kita akan membuat makanan untuk tanaman.</font>
+
+196
+00:11:04,228 --> 00:11:06,957
+<font face="Calibri Light">Yang kemudian akan kita makan./
+Ya, aku setuju dengan Pak. Strickland.</font>
+
+197
+00:11:06,957 --> 00:11:08,363
+<font face="Calibri Light">Bahkan dengan memikirkannnya
+membuatku ingin muntah.</font>
+
+198
+00:11:08,363 --> 00:11:09,799
+<font face="Calibri Light">Buang mayatnya ke luar angkasa.</font>
+
+199
+00:11:09,799 --> 00:11:11,627
+<font face="Calibri Light">Itu perintah./
+Itu adalah kesalahan besar.</font>
+
+200
+00:11:11,627 --> 00:11:14,412
+<font face="Calibri Light">Menurut Hukum Pelestarian Negara
+kita perlu menggunakan semua</font>
+
+201
+00:11:14,412 --> 00:11:16,676
+<font face="Calibri Light">yang kita miliki untuk bertahan hidup./
+Kenapa dia ada di sini?</font>
+
+202
+00:11:16,676 --> 00:11:21,028
+<font face="Calibri Light">Dia sekarang anggota dewan sejak Brice memberinya
+jabatan Kepala bagian Penunjang Kehidupan.</font>
+
+203
+00:11:21,028 --> 00:11:24,248
+<font face="Calibri Light">Kenapa kau melakukannya?/
+Karena dia sangat pintar.</font>
+
+204
+00:11:24,248 --> 00:11:26,642
+<font face="Calibri Light">Terima kasih./
+Aku sudah terlanjur memberi perintah.</font>
+
+205
+00:11:26,642 --> 00:11:28,644
+<font face="Calibri Light">Apa yang terjadi dengan tidak
+mengambil tindakan sepihak?</font>
+
+206
+00:11:28,644 --> 00:11:31,081
+<font face="Calibri Light">Bukankah kau pernah
+menuduhku seperti itu?</font>
+
+207
+00:11:31,081 --> 00:11:34,781
+<font face="Calibri Light">Bukankah sebaiknya kita memikirkan apa
+yang diinginkan orang yang sudah meninggal?</font>
+
+208
+00:11:34,781 --> 00:11:36,652
+<font face="Calibri Light">Harris pernah bekerja di departemenku,</font>
+
+209
+00:11:36,652 --> 00:11:39,437
+<font face="Calibri Light">dan kupikir dia pasti ingin
+terus berkontribusi</font>
+
+210
+00:11:39,437 --> 00:11:41,526
+<font face="Calibri Light">untuk keberhasilan misi.</font>
+
+211
+00:11:41,526 --> 00:11:46,618
+<font face="Calibri Light">Bukankah ini cara baginya untuk melakukannya?/
+Baiklah, kita ambil voting.</font>
+
+212
+00:11:46,618 --> 00:11:50,405
+<font face="Calibri Light">Aku sudah terlanjur memberi perintah./
+Siapa yang setuju dengan rencana Angus,</font>
+
+213
+00:11:50,405 --> 00:11:51,319
+<font face="Calibri Light">angkat tangan kalian.</font>
+
+214
+00:11:54,496 --> 00:11:57,194
+<font face="Calibri Light">Yang tidak setuju?</font>
+
+215
+00:11:57,194 --> 00:11:59,675
+<font face="Calibri Light">Baiklah, itulah keputusannya.</font>
+
+216
+00:11:59,675 --> 00:12:01,938
+<font face="Calibri Light">Bawa mayatnya ke mesin Angus.</font>
+
+217
+00:12:08,249 --> 00:12:09,641
+<font face="Calibri Light">Kau tak punya hak untuk melangkahiku.</font>
+
+218
+00:12:09,641 --> 00:12:11,165
+<font face="Calibri Light">Aku tak melangkahimu./
+Aku mengambil voting.</font>
+
+219
+00:12:11,165 --> 00:12:12,732
+<font face="Calibri Light">Sekarang kita punya
+masalah yang lebih besar.</font>
+
+220
+00:12:12,732 --> 00:12:14,385
+<font face="Calibri Light">Oh, bung, aku tidak akan menyebutnya</font>
+
+221
+00:12:14,385 --> 00:12:17,258
+<font face="Calibri Light">masalah yang lebih besar saat ini.</font>
+
+222
+00:12:17,258 --> 00:12:19,651
+<font face="Calibri Light">Kita harus membuat mesin cadangannya
+bekerja secepat mungkin</font>
+
+223
+00:12:19,651 --> 00:12:21,828
+<font face="Calibri Light">atau kita takkan bisa sampai ke Proxima B</font>
+
+224
+00:12:21,828 --> 00:12:23,264
+<font face="Calibri Light">sebelum perjalanan setahun
+berubah jadi 10 tahun.</font>
+
+225
+00:12:23,264 --> 00:12:25,048
+<font face="Calibri Light">Ditambah, masih ada pembunuh
+di pesawat ini,</font>
+
+226
+00:12:25,048 --> 00:12:26,833
+<font face="Calibri Light">dan kita masih tak tahu apa
+yang menghantam kita.</font>
+
+227
+00:12:26,833 --> 00:12:28,835
+<font face="Calibri Light">Orang-orang tampaknya lebih takut
+dengan pembunuhnya.</font>
+
+228
+00:12:28,835 --> 00:12:31,054
+<font face="Calibri Light">Yah, lalu mungkin kau harus
+segera mencari tahu kembali</font>
+
+229
+00:12:31,054 --> 00:12:32,490
+<font face="Calibri Light">daripada duduk dan mengeluh di sini</font>
+
+230
+00:12:32,490 --> 00:12:34,710
+<font face="Calibri Light">tentang siapa yang memimpin./
+Persetan.</font>
+
+231
+00:12:36,843 --> 00:12:38,758
+<font face="Calibri Light">Bagus.
+Tadi berakhir dengan baik.</font>
+
+232
+00:12:47,288 --> 00:12:49,943
+<font face="Calibri Light">Spence! Spence, Tunggu dulu./
+Ada apa?</font>
+
+233
+00:12:49,943 --> 00:12:52,075
+<font face="Calibri Light">Dengar, Lane, aku tahu
+kau tidak suka pada Garnet</font>
+
+234
+00:12:52,075 --> 00:12:53,685
+<font face="Calibri Light">karena suka menyuruhmu, bukan?</font>
+
+235
+00:12:53,685 --> 00:12:55,296
+<font face="Calibri Light">Tapi dia tidak salah juga.</font>
+
+236
+00:12:55,296 --> 00:12:56,906
+<font face="Calibri Light">Kita perlu cari tahu yang telah
+menghantam pesawat.</font>
+
+237
+00:12:56,906 --> 00:12:58,299
+<font face="Calibri Light">Maksudku, kau mengatakannya sendiri,
+orang-orang terus</font>
+
+238
+00:12:58,299 --> 00:13:01,650
+<font face="Calibri Light">berasumsi yang macam-macam.</font>
+
+239
+00:13:01,650 --> 00:13:03,565
+<font face="Calibri Light">Apa kau sama sekali tak curiga
+kepada Garnet?</font>
+
+240
+00:13:05,306 --> 00:13:07,090
+<font face="Calibri Light">Apa maksudmu?</font>
+
+241
+00:13:07,090 --> 00:13:09,397
+<font face="Calibri Light">Apa kita benar tahu siapa dia sebenarnya?</font>
+
+242
+00:13:09,397 --> 00:13:12,139
+<font face="Calibri Light">Garnet tak dilatih bersama dengan kita.</font>
+
+243
+00:13:12,139 --> 00:13:14,968
+<font face="Calibri Light">Tak seorangpun dari kita pernah
+mendengarnya sampai kita tiba di pesawat ini.</font>
+
+244
+00:13:16,992 --> 00:13:18,492
+<font face="Calibri Light"><i>Tiga hari sebelum keberangkatan</i></font>
+
+245
+00:13:18,623 --> 00:13:22,323
+<font face="Calibri Light"><i>Aku sangat bangga menjadi
+Komandan dari Ark yang pertama.</i></font>
+
+246
+00:13:22,323 --> 00:13:24,891
+<font face="Calibri Light">Sekarang aku ingin memperkenalkan
+pada kalian seseorang</font>
+
+247
+00:13:24,891 --> 00:13:27,284
+<font face="Calibri Light">yang akan berinteraksi
+dengan kalian warga sipil,</font>
+
+248
+00:13:27,284 --> 00:13:29,504
+<font face="Calibri Light">Mayor. Susan Ingram.</font>
+
+249
+00:13:33,116 --> 00:13:35,815
+<font face="Calibri Light">Selama kita berada di pesawat ini,
+kalian berada dibawah naungan</font>
+
+250
+00:13:35,815 --> 00:13:39,079
+<font face="Calibri Light">kewenangan Hukum Administrasi
+Luar Angkasa Dunia.</font>
+
+251
+00:13:39,079 --> 00:13:44,127
+<font face="Calibri Light">Tentu, kita masih akan tetap sadar selama
+satu minggu sebelum kita tidur(hibernasi).</font>
+
+252
+00:13:44,127 --> 00:13:46,129
+<font face="Calibri Light">Tapi sampai waktunya tiba,
+aku tak sabar</font>
+
+253
+00:13:46,129 --> 00:13:48,697
+<font face="Calibri Light">untuk mengenal satu sama lain
+dengan kalian semua.</font>
+
+254
+00:13:48,697 --> 00:13:53,180
+<font face="Calibri Light">Dan saat ini, aku tak sabar untuk segera
+mengenalkan pada kalian</font>
+
+255
+00:13:53,180 --> 00:13:57,793
+<font face="Calibri Light">seseorang yang telah merancang pesawat
+luar angkasa yang luar biasa ini.</font>
+
+256
+00:13:57,793 --> 00:14:01,666
+<font face="Calibri Light">Faktanya, beliau jugalah yang
+merancang seluruh program ARK.</font>
+
+257
+00:14:01,666 --> 00:14:05,018
+<font face="Calibri Light">Hadirin sekalian sambutlah,
+Tuan William Trust.</font>
+
+258
+00:14:07,194 --> 00:14:10,327
+<font face="Calibri Light"><i>Halo, namaku adalah William Trust.</i></font>
+
+259
+00:14:10,327 --> 00:14:13,591
+<font face="Calibri Light"><i>Aku harap aku bisa berada bersama
+kalian semua di momen bersejarah ini,</i></font>
+
+260
+00:14:13,591 --> 00:14:16,246
+<font face="Calibri Light"><i>tapi sayangnya, aku sibuk mempersiapkan
+pesawat Ark yang lain</i></font>
+
+261
+00:14:16,246 --> 00:14:17,726
+<font face="Calibri Light"><i>untuk perjalanan masa depan mereka.</i></font>
+
+262
+00:14:17,726 --> 00:14:19,684
+<font face="Calibri Light"><i>Kita berharap bisa mengirim
+sebanyak 20 pesawat Ark</i></font>
+
+263
+00:14:19,684 --> 00:14:22,296
+<font face="Calibri Light"><i>termasuk pesawat ini,
+penuh dengan orang-orang...</i></font>
+
+264
+00:14:22,296 --> 00:14:25,821
+<font face="Calibri Light">Kukira Trust dipecat dari perusahaannya
+sendiri karena menjadi gila.</font>
+
+265
+00:14:25,821 --> 00:14:28,084
+<font face="Calibri Light">Kebanyakan orang jenius
+memang sedikit gila.</font>
+
+266
+00:14:28,084 --> 00:14:29,956
+<font face="Calibri Light"><i>Pekerjaanku memang selalu mengenai tentang</i></font>
+
+267
+00:14:29,956 --> 00:14:31,609
+<font face="Calibri Light"><i>membuat kehidupan yang lebih baik
+bagi umat manusia.</i></font>
+
+268
+00:14:31,609 --> 00:14:34,395
+<font face="Calibri Light">Jika bukan karenanya,
+tak satupun dari kita bisa ada di sini.</font>
+
+269
+00:14:34,395 --> 00:14:36,571
+<font face="Calibri Light">Aku tahu.</font>
+
+270
+00:14:36,571 --> 00:14:38,399
+<font face="Calibri Light">Tapi dia berubah dari
+sang penyelamat umat manusia</font>
+
+271
+00:14:38,399 --> 00:14:41,184
+<font face="Calibri Light">menjadi orang yang merasa paling sempurna.</font>
+
+272
+00:14:41,184 --> 00:14:42,925
+<font face="Calibri Light">Dia seharusnya sudah tak ada
+hubungan lagi dengan misi ini.</font>
+
+273
+00:14:42,925 --> 00:14:45,188
+<font face="Calibri Light"><i>...antara GSA dan Trust Industries,</i></font>
+
+274
+00:14:45,188 --> 00:14:46,624
+<font face="Calibri Light"><i>kalian akan menjadi yang pertama berangkat</i></font>
+
+275
+00:14:46,624 --> 00:14:49,801
+<font face="Calibri Light"><i>dalam petualangan terbesar
+dalam sejarah umat manusia.</i></font>
+
+276
+00:14:49,801 --> 00:14:53,457
+<font face="Calibri Light"><i>Dan dalam melakukannya, kalian mungkin
+akan menemukan sebuah rumah baru.</i></font>
+
+277
+00:15:01,770 --> 00:15:04,904
+<font face="Calibri Light">Itu saja, sekian.
+Persiapkan keberangkatan.</font>
+
+278
+00:15:13,042 --> 00:15:16,741
+<font face="Calibri Light">Aku sangat menantikan
+petualangan luar biasa ini,</font>
+
+279
+00:15:16,741 --> 00:15:20,441
+<font face="Calibri Light">dan aku berjanji pada kalian untuk
+melanjutkan catatan baik dengan patuh</font>
+
+280
+00:15:20,441 --> 00:15:22,225
+<font face="Calibri Light">seperti yang selaluku lakukan saat di Bumi</font>
+
+281
+00:15:22,225 --> 00:15:24,445
+<font face="Calibri Light">tepat sebelum kita tertidur panjang.</font>
+
+282
+00:15:24,445 --> 00:15:26,708
+<font face="Calibri Light">Mereka memberitahuku,
+setelah tertidur selama 5 tahun,</font>
+
+283
+00:15:26,708 --> 00:15:29,450
+<font face="Calibri Light">aku takkan menua sehari pun.</font>
+
+284
+00:15:29,450 --> 00:15:32,018
+<font face="Calibri Light">Luar biasa bukan?</font>
+
+285
+00:15:32,018 --> 00:15:33,454
+<font face="Calibri Light">Sekarang, aku permisi dulu,</font>
+
+286
+00:15:33,454 --> 00:15:35,717
+<font face="Calibri Light">Sampai jumpa lagi di layar hologram...</font>
+
+287
+00:15:39,068 --> 00:15:41,375
+<font face="Calibri Light">kayak ada yang masih hidup
+saja bakal menonton siaran itu di Bumi.</font>
+
+288
+00:15:44,421 --> 00:15:48,730
+<font face="Calibri Light">Namaku Lane./
+Ini Trent dan...</font>
+
+289
+00:15:48,730 --> 00:15:52,473
+<font face="Calibri Light">Permisi tuan-tuan,
+saya ingin kalian bertemu</font>
+
+290
+00:15:52,473 --> 00:15:53,822
+<font face="Calibri Light">anggota baru dari kelompok kalian.</font>
+
+291
+00:15:53,822 --> 00:15:56,694
+<font face="Calibri Light">Namanya
+Letnan. Sharon Garnet.</font>
+
+292
+00:15:56,694 --> 00:15:58,479
+<font face="Calibri Light">Senang bertemu dengan kalian, tuan-tuan.</font>
+
+293
+00:15:58,479 --> 00:16:00,350
+<font face="Calibri Light">Aku harap kalian mau mengajakku
+berkeliling saat kita mulai berangkat.</font>
+
+294
+00:16:00,350 --> 00:16:01,961
+<font face="Calibri Light">Tentu.
+Kita sangat menantikannya.</font>
+
+295
+00:16:01,961 --> 00:16:04,180
+<font face="Calibri Light">Biarku kenalkan kau kepada
+petugas yang lain.</font>
+
+296
+00:16:07,444 --> 00:16:10,839
+<font face="Calibri Light">Susan.
+Kau tahu sesuatu mengenai ini?</font>
+
+297
+00:16:10,839 --> 00:16:14,103
+<font face="Calibri Light">Apa maksudmu?/
+Letnan. Garnet.</font>
+
+298
+00:16:14,103 --> 00:16:18,542
+<font face="Calibri Light">Dia baru saja tiba hari ini, gak berlatih
+bersama kita. Kau tahu sesuatu tentangnya?</font>
+
+299
+00:16:18,542 --> 00:16:23,765
+<font face="Calibri Light">Yang kutahu, dia ditugaskan disini di saat
+terakhir oleh salah seorang petinggi.</font>
+
+300
+00:16:29,901 --> 00:16:31,512
+<font face="Calibri Light">Baiklah, kau tahu sesuatu.</font>
+
+301
+00:16:31,512 --> 00:16:33,949
+<font face="Calibri Light">Aku penasaran siapa yang
+menugaskannya di pesawat.</font>
+
+302
+00:16:36,952 --> 00:16:39,302
+<font face="Calibri Light">Apa yang kau lakukan?/
+Aku hanya ingin berbaring.</font>
+
+303
+00:16:39,302 --> 00:16:41,304
+<font face="Calibri Light">Ini adalah ruanganku.</font>
+
+304
+00:16:41,304 --> 00:16:44,273
+<font face="Calibri Light">Pesawat hanya memiliki 2 ruangan petugas./
+Kenapa?</font>
+
+305
+00:16:44,773 --> 00:16:48,094
+<font face="Calibri Light">Karena kita memang tidak seharusnya keluar
+dari ruang hibernasi hingga kita sampai di Proxima B.</font>
+
+306
+00:16:48,094 --> 00:16:50,009
+<font face="Calibri Light">Kamar tidur hanya untuk kru utama</font>
+
+307
+00:16:50,009 --> 00:16:51,532
+<font face="Calibri Light">yang tinggal di pesawat setelah
+kita mencapai permukaan.</font>
+
+308
+00:16:51,532 --> 00:16:53,751
+<font face="Calibri Light">Hanya dua petugas./
+Aku tahu, aku tahu.</font>
+
+309
+00:16:53,751 --> 00:16:58,539
+<font face="Calibri Light">Aku paham itu. Maksudku,
+kenapa kau dapat satu ruangan?</font>
+
+310
+00:16:58,539 --> 00:17:00,323
+<font face="Calibri Light">Karena Garnet menempati ruangan Kapten,</font>
+
+311
+00:17:00,323 --> 00:17:03,109
+<font face="Calibri Light">jadi aku seharusnya dapat yang ini./
+Oh. Kenapa bisa?</font>
+
+312
+00:17:03,109 --> 00:17:04,371
+<font face="Calibri Light">Karena...</font>
+
+313
+00:17:07,809 --> 00:17:09,941
+<font face="Calibri Light">Pertanyaan bagus.</font>
+
+314
+00:17:09,941 --> 00:17:12,379
+<font face="Calibri Light">Maksudku, kenapa Garnet
+bisa menempati ruangan Kapten?</font>
+
+315
+00:17:12,379 --> 00:17:15,382
+<font face="Calibri Light">Karena dia cukup jelas mengambil
+peran sebagai Kapten</font>
+
+316
+00:17:15,382 --> 00:17:17,253
+<font face="Calibri Light">meskipun kau menentangnya.</font>
+
+317
+00:17:19,038 --> 00:17:21,257
+<font face="Calibri Light">Bagaimana kalau begini?</font>
+
+318
+00:17:21,257 --> 00:17:23,346
+<font face="Calibri Light">Dipertemuan dewan selanjutnya,
+kita bertiga akan mengadakan undian</font>
+
+319
+00:17:23,346 --> 00:17:24,608
+<font face="Calibri Light">siapa yang menempati ruangannya.</font>
+
+320
+00:17:26,567 --> 00:17:28,177
+<font face="Calibri Light">Yah, semoga beruntung.</font>
+
+321
+00:17:41,973 --> 00:17:43,192
+<font face="Calibri Light">Apa yang...</font>
+
+322
+00:17:44,802 --> 00:17:46,003
+<font face="Calibri Light">Apa yang sedang kau lakukan?</font>
+
+323
+00:17:48,545 --> 00:17:50,373
+<font face="Calibri Light">Kau membuatku terkejut.</font>
+
+324
+00:17:50,373 --> 00:17:52,114
+<font face="Calibri Light">Aku tadi sedang mengecek
+catatan masuk</font>
+
+325
+00:17:52,114 --> 00:17:55,204
+<font face="Calibri Light">untuk melihat siapa yang terakhir masuk,
+tapi semuanya sudah terhapus.</font>
+
+326
+00:17:55,204 --> 00:17:58,721
+<font face="Calibri Light">Aku penasaran siapa yang bisa melakukannya./
+Apa kau menuduhku?</font>
+
+327
+00:17:58,721 --> 00:18:00,336
+<font face="Calibri Light">Semua orang masih terduga bersalah
+sampai mereka dinyatakan sebaliknya,</font>
+
+328
+00:18:00,336 --> 00:18:02,320
+<font face="Calibri Light">yang mana kau sebaiknya
+tidak berkeliaran di sekitar sini.</font>
+
+329
+00:18:02,320 --> 00:18:04,779
+<font face="Calibri Light">Yang benar saja, Felix.
+Kau tahu aku tidak membunuh Jasper.</font>
+
+330
+00:18:04,779 --> 00:18:05,910
+<font face="Calibri Light">Benarkah?</font>
+
+331
+00:18:09,262 --> 00:18:11,829
+<font face="Calibri Light">Aku tidak membunuh Jasper Dades./
+Namanya adalah Malcolm Perry.</font>
+
+332
+00:18:11,829 --> 00:18:14,049
+<font face="Calibri Light">Terserah siapa namanya,
+aku tak punya alasan membunuhnya.</font>
+
+333
+00:18:14,049 --> 00:18:15,268
+<font face="Calibri Light">Sama saja,
+ini adalah investigasiku.</font>
+
+334
+00:18:15,268 --> 00:18:17,096
+<font face="Calibri Light">Aku sarankan kau tak ikut campur.</font>
+
+335
+00:18:20,447 --> 00:18:23,145
+<font face="Calibri Light">Kau benar.
+Aku minta maaf.</font>
+
+336
+00:18:23,145 --> 00:18:26,279
+<font face="Calibri Light">Aku tak akan ikut campur./
+Terima kasih.</font>
+
+337
+00:18:26,279 --> 00:18:28,672
+<font face="Calibri Light">Tapi beritahu aku jika kau
+butuh bantuan apapun, Felix.</font>
+
+338
+00:18:28,672 --> 00:18:30,718
+<font face="Calibri Light">Kau bisa memberitahuku siapa
+yang punya izin cukup tinggi</font>
+
+339
+00:18:30,718 --> 00:18:32,589
+<font face="Calibri Light">untuk menghapus catatan keamanan.</font>
+
+340
+00:18:36,376 --> 00:18:38,334
+<font face="Calibri Light">Siapapun yang punya izin rahasia.</font>
+
+341
+00:18:38,334 --> 00:18:40,641
+<font face="Calibri Light">Dan siapa saja yang
+punya izin rahasia, Sharon?</font>
+
+342
+00:18:40,641 --> 00:18:45,298
+<font face="Calibri Light">Eva Markovic, Letnan. Lane,
+Letnan. Brice dan aku.</font>
+
+343
+00:19:24,772 --> 00:19:25,773
+<font face="Calibri Light">Oh!</font>
+
+344
+00:19:27,470 --> 00:19:29,211
+<font face="Calibri Light">Tidak. Tidak!</font>
+
+345
+00:19:38,077 --> 00:19:40,135
+<font face="Calibri Light">Aku butuh waktu lama untuk
+menemukan keran penutupnya agar berhenti.</font>
+
+346
+00:19:40,135 --> 00:19:42,268
+<font face="Calibri Light">Kita kehilangan banyak air./
+Seberapa banyak?</font>
+
+347
+00:19:42,268 --> 00:19:44,609
+<font face="Calibri Light">Aku tidak tahu.
+Perkiraanku mungkin lebih dari 100 galon.</font>
+
+348
+00:19:44,609 --> 00:19:46,968
+<font face="Calibri Light">100 galon?
+Itu semua air minum kita.</font>
+
+349
+00:19:46,968 --> 00:19:48,578
+<font face="Calibri Light">Aku minta maaf.
+Ini salahku.</font>
+
+350
+00:19:48,578 --> 00:19:50,711
+<font face="Calibri Light">Jika aku tak bersikeras untuk
+membangun kebun dalam ruangan</font>
+
+351
+00:19:50,711 --> 00:19:53,801
+<font face="Calibri Light">Kita mungkin takkan punya
+air ataupun makanan.</font>
+
+352
+00:19:53,801 --> 00:19:56,978
+<font face="Calibri Light">Kau tak bisa mengantisipasi semua ini.</font>
+
+353
+00:19:56,978 --> 00:20:00,155
+<font face="Calibri Light">Baiklah, apa semua air yang
+tumpah masih bisa dipakai?</font>
+
+354
+00:20:00,155 --> 00:20:02,505
+<font face="Calibri Light">Mungkin tidak semua,
+jika Eva bisa membuat</font>
+
+355
+00:20:02,505 --> 00:20:04,159
+<font face="Calibri Light">alat penyulingan air bekerja kembali.</font>
+
+356
+00:20:04,159 --> 00:20:05,508
+<font face="Calibri Light">Apa kau sudah tanya padanya
+butuh waktu berapa lama?</font>
+
+357
+00:20:05,508 --> 00:20:06,901
+<font face="Calibri Light">Aku tak bisa menemukannya.</font>
+
+358
+00:20:06,901 --> 00:20:08,946
+<font face="Calibri Light">Tunggu, kau tak bisa menemukannya?</font>
+
+359
+00:20:08,946 --> 00:20:11,906
+<font face="Calibri Light">Garnet memanggil Eva Markovic.</font>
+
+360
+00:20:11,906 --> 00:20:14,517
+<font face="Calibri Light">Markovic?</font>
+
+361
+00:20:14,517 --> 00:20:15,605
+<font face="Calibri Light">Dimana dia?</font>
+
+362
+00:20:16,780 --> 00:20:18,782
+<font face="Calibri Light">Eva?</font>
+
+363
+00:20:20,393 --> 00:20:21,785
+<font face="Calibri Light">Eva Markovic?</font>
+
+364
+00:20:24,440 --> 00:20:26,964
+<font face="Calibri Light">Eva, telah terjadi kebocoran air,</font>
+
+365
+00:20:26,964 --> 00:20:31,708
+<font face="Calibri Light">dan kita butuh keahlianmu.
+Oh, tidak.</font>
+
+366
+00:20:31,708 --> 00:20:33,710
+<font face="Calibri Light">Apa kau baik-baik saja?</font>
+
+367
+00:20:37,975 --> 00:20:41,588
+<font face="Calibri Light">Dr. Brandice, aku butuh
+sedikit bantuan di sini.</font>
+
+368
+00:20:41,588 --> 00:20:46,593
+<font face="Calibri Light">Aku? Oh, aku tak yakin
+aku bisa membantu.</font>
+
+369
+00:20:46,593 --> 00:20:49,335
+<font face="Calibri Light">Bantu saja.</font>
+
+370
+00:20:54,775 --> 00:20:56,504
+<font face="Calibri Light">Ada masalah apa?</font>
+
+371
+00:20:57,504 --> 00:20:59,915
+<font face="Calibri Light">Kupikir ada hubungannya antara Eva dan pria</font>
+
+372
+00:20:59,915 --> 00:21:03,262
+<font face="Calibri Light">dari departemennya
+yang meninggal saat krisis oksigen.</font>
+
+373
+00:21:03,262 --> 00:21:05,220
+<font face="Calibri Light">Kalau tak salah namanya adalah Harris.</font>
+
+374
+00:21:05,220 --> 00:21:08,876
+<font face="Calibri Light">Oh, Harris, ya.
+Aku bertemu dengannya dulu saat masuk.</font>
+
+375
+00:21:08,876 --> 00:21:13,354
+<font face="Calibri Light">Dia jelas adalah pria yang baik,
+juga tampan.</font>
+
+376
+00:21:15,964 --> 00:21:17,794
+<font face="Calibri Light">Dimana pertama kalian bertemu?</font>
+
+377
+00:21:18,394 --> 00:21:20,709
+<font face="Calibri Light">Ayolah, apa kau tidak mau
+curhat tentang pacarmu?</font>
+
+378
+00:21:27,068 --> 00:21:31,420
+<font face="Calibri Light">Pasti sangat berat bagimu untuk mencintai
+seseorang dan harus merahasiakannya.</font>
+
+379
+00:21:31,420 --> 00:21:34,858
+<font face="Calibri Light">Bahkan lebih berat lagi saat kehilangannya
+saat dia sangat istimewa bagimu</font>
+
+380
+00:21:34,858 --> 00:21:38,248
+<font face="Calibri Light">dan harus tetap menahan kesedihanmu
+karena kau tidak ingin dapat masalah.</font>
+
+381
+00:21:40,342 --> 00:21:41,996
+<font face="Calibri Light">Oh, kau ingin aku untuk...</font>
+
+382
+00:21:45,138 --> 00:21:49,133
+<font face="Calibri Light">Eva, tidak ada yang akan membuatmu
+dalam masalah atas hubunganmu.</font>
+
+383
+00:21:49,133 --> 00:21:53,355
+<font face="Calibri Light">Tak ada./
+Maksudnya di sini kita hanya berusaha untuk bertahan hidup</font>
+
+384
+00:21:53,355 --> 00:21:56,619
+<font face="Calibri Light">Sejauh yang kutahu,
+peraturan itu tak pernah ada,</font>
+
+385
+00:21:56,619 --> 00:21:59,492
+<font face="Calibri Light">dan itu sangat bodoh jika memang ada.</font>
+
+386
+00:22:01,189 --> 00:22:04,148
+<font face="Calibri Light">Taman Kalemegdan./
+Apa?</font>
+
+387
+00:22:04,148 --> 00:22:10,154
+<font face="Calibri Light">Di sanalah aku bertemu Harris.
+Taman Kalemegdan di ibu kota Beograd.</font>
+
+388
+00:22:10,154 --> 00:22:12,896
+<font face="Calibri Light">Kita berdua biasa datang ke sana
+untuk memberi makan burung.</font>
+
+389
+00:22:12,896 --> 00:22:15,943
+<font face="Calibri Light">Sebelum burung-burung itu pergi./
+Aku pernah datang ke sana.</font>
+
+390
+00:22:17,205 --> 00:22:19,947
+<font face="Calibri Light">Ya, taman yang sangat indah.</font>
+
+391
+00:22:19,947 --> 00:22:22,645
+<font face="Calibri Light">Tempat yang sangat romantis.</font>
+
+392
+00:22:22,645 --> 00:22:25,300
+<font face="Calibri Light">Apa Harris pria yang romantis?</font>
+
+393
+00:22:25,300 --> 00:22:28,651
+<font face="Calibri Light">Yah, dia sangat manis.</font>
+
+394
+00:22:28,651 --> 00:22:31,480
+<font face="Calibri Light">Jadi, inilah yang aku ingin kau lakukan, Eva.</font>
+
+395
+00:22:31,480 --> 00:22:34,483
+<font face="Calibri Light">Aku ingin kau hanya membayangkan
+momen indah saat bersama Harris.</font>
+
+396
+00:22:34,483 --> 00:22:36,224
+<font face="Calibri Light">Jangan biarkan pikiranmu
+memikirkan hal yang sedih.</font>
+
+397
+00:22:36,224 --> 00:22:38,226
+<font face="Calibri Light">Kau bisa melakukannya?</font>
+
+398
+00:22:38,226 --> 00:22:40,315
+<font face="Calibri Light">Dan kita perlu kau segera mengerjakan
+alat penyuli...</font>
+
+399
+00:22:40,315 --> 00:22:43,274
+<font face="Calibri Light">Terus bayangkan tentang
+momen-momen indahnya.</font>
+
+400
+00:22:43,274 --> 00:22:44,711
+<font face="Calibri Light">Tenangkan dirimu sebentar</font>
+
+401
+00:22:44,711 --> 00:22:47,714
+<font face="Calibri Light">dan lakukan apa yang
+letnan ini ingin kau lakukan.</font>
+
+402
+00:22:47,714 --> 00:22:51,108
+<font face="Calibri Light">Dan setelah kau melakukannya, datanglah
+lagi padaku dan ceritakan momen indah</font>
+
+403
+00:22:51,108 --> 00:22:53,284
+<font face="Calibri Light">yang terlintas dipikiranmu
+tentang pria tampan itu.</font>
+
+404
+00:23:02,076 --> 00:23:04,165
+<font face="Calibri Light">Itu dia.
+mundurkan sedikit.</font>
+
+405
+00:23:06,506 --> 00:23:09,471
+<font face="Calibri Light">Yah, disitulah kita terkena benturan.</font>
+
+406
+00:23:09,471 --> 00:23:12,247
+<font face="Calibri Light">Tapi kameranya tidak rusak.
+kameranya masih berfungsi di luar sana.</font>
+
+407
+00:23:12,347 --> 00:23:14,436
+<font face="Calibri Light">Pasti ada cara untuk melihat
+apa yang terekam di sana.</font>
+
+408
+00:23:14,436 --> 00:23:16,090
+<font face="Calibri Light">Tebakanku adalah apapun
+yang menghantam kita</font>
+
+409
+00:23:16,090 --> 00:23:18,309
+<font face="Calibri Light">memicu tegangan elektromagnetik
+yang mematikan seluruh kamera.</font>
+
+410
+00:23:18,309 --> 00:23:20,442
+<font face="Calibri Light">Karena, lihat...</font>
+
+411
+00:23:20,442 --> 00:23:23,967
+<font face="Calibri Light">Terkadang kameranya
+menyala kembali setelah benturan.</font>
+
+412
+00:23:23,967 --> 00:23:26,317
+<font face="Calibri Light">Jika itu masalahnya, tak ada cara
+untuk mengembalikan rekamannya</font>
+
+413
+00:23:26,317 --> 00:23:29,103
+<font face="Calibri Light">karena kameranya tak merekam apapun./
+Ada perkembangan.</font>
+
+414
+00:23:29,103 --> 00:23:31,340
+<font face="Calibri Light">Sayangnya tidak./
+Letnan. Lane,</font>
+
+415
+00:23:31,340 --> 00:23:33,399
+<font face="Calibri Light">kau keberatan jika saya
+mengajukan beberapa pertanyaan?</font>
+
+416
+00:23:33,399 --> 00:23:34,849
+<font face="Calibri Light">Tentang apa?</font>
+
+417
+00:23:36,649 --> 00:23:39,892
+<font face="Calibri Light">Dimana anda berada pada jam 4 sore,
+pada hari dimana terjadi pembunuhan?</font>
+
+418
+00:23:39,992 --> 00:23:42,603
+<font face="Calibri Light">Kenapa?/
+Itulah saat ketika Jasper Dades terbunuh.</font>
+
+419
+00:23:42,803 --> 00:23:44,292
+<font face="Calibri Light">Apa? Dan kau pikir salah satu
+dari kita pelakunya?</font>
+
+420
+00:23:44,292 --> 00:23:46,860
+<font face="Calibri Light">Letnan. Brice, bersamaku saat itu.
+Saya tak bisa mengesampingkan anda.</font>
+
+421
+00:23:46,860 --> 00:23:49,166
+<font face="Calibri Light">Aku dan sekitar 150 orang
+lainnya di pesawat ini.</font>
+
+422
+00:23:49,166 --> 00:23:51,560
+<font face="Calibri Light">Riwayat masuk adalah tombol
+ke ruangan dimana dia terbunuh</font>
+
+423
+00:23:51,560 --> 00:23:54,641
+<font face="Calibri Light">seharusnya akan memunculkan siapa yang
+masuk ruangan, tapi sudah terhapus.</font>
+
+424
+00:23:54,641 --> 00:23:56,857
+<font face="Calibri Light">Dan?/ Dan anda salah
+satu dari empat orang</font>
+
+425
+00:23:56,857 --> 00:23:59,076
+<font face="Calibri Light">yang punya kode akses cukup
+tinggi untuk menghapus informasinya.</font>
+
+426
+00:23:59,176 --> 00:24:01,309
+<font face="Calibri Light">Jadi, anda berada
+dimana pada saat itu?</font>
+
+427
+00:24:04,181 --> 00:24:07,402
+<font face="Calibri Light">Aku tak perlu menjawab
+apapun dari pertanyaanmu.</font>
+
+428
+00:24:07,402 --> 00:24:11,232
+<font face="Calibri Light">Pangkatku lebih tinggi darimu./
+Saya bukan anggota GSA.</font>
+
+429
+00:24:11,232 --> 00:24:13,016
+<font face="Calibri Light">Pangkat anda tak berarti untukku.</font>
+
+430
+00:24:18,065 --> 00:24:20,197
+<font face="Calibri Light">Aku hanya ingin memberitahumu,</font>
+
+431
+00:24:20,197 --> 00:24:22,417
+<font face="Calibri Light">Lane bukan tipe orang yang
+akan berdebat tentang</font>
+
+432
+00:24:22,417 --> 00:24:26,377
+<font face="Calibri Light">perbedaan pendapat seperti
+"Kau bukanlah bosku".</font>
+
+433
+00:24:33,820 --> 00:24:36,126
+<font face="Calibri Light">Kau harus berhenti
+menyalahkan dirimu sendiri.</font>
+
+434
+00:24:36,126 --> 00:24:38,999
+<font face="Calibri Light">Maksudku, kau tak bisa mengantisipasi
+bahwa keran airnya akan bocor.</font>
+
+435
+00:24:38,999 --> 00:24:41,567
+<font face="Calibri Light">Apa kau yang memasangnya?/
+Salah satu pekerjanya Eva.</font>
+
+436
+00:24:41,567 --> 00:24:44,221
+<font face="Calibri Light">Kalau begitu, jika terjadi sesuatu,
+ini adalah salahnya.</font>
+
+437
+00:24:44,221 --> 00:24:46,354
+<font face="Calibri Light">Bukan masalah salah siapa di sini.</font>
+
+438
+00:24:46,354 --> 00:24:48,182
+<font face="Calibri Light">Kita akan kehabisan air dalam 3 hari,</font>
+
+439
+00:24:48,182 --> 00:24:49,836
+<font face="Calibri Light">dan mati kehausan dalam satu minggu.</font>
+
+440
+00:24:55,015 --> 00:24:56,538
+<font face="Calibri Light">Pisau macam apa ini?</font>
+
+441
+00:24:58,993 --> 00:25:00,064
+<font face="Calibri Light">Itu pisau untuk memburu.</font>
+
+442
+00:25:00,064 --> 00:25:03,084
+<font face="Calibri Light">Ayahku biasa menggunakannya
+ketika ada permainan berburu dulu.</font>
+
+443
+00:25:03,284 --> 00:25:06,026
+<font face="Calibri Light">Pisau ini dibuat untuk
+membunuh dan menguliti hewan.</font>
+
+444
+00:25:06,026 --> 00:25:08,202
+<font face="Calibri Light">Kenapa kau punya itu?/
+Ini bukan punyaku.</font>
+
+445
+00:25:11,031 --> 00:25:12,511
+<font face="Calibri Light">Ini pasti keluar dari saluran pipanya.</font>
+
+446
+00:25:12,511 --> 00:25:13,851
+<font face="Calibri Light">Artinya seseorang membuangnya</font>
+
+447
+00:25:13,851 --> 00:25:16,515
+<font face="Calibri Light">di salah satu tangki air dimana
+mereka punya akses ke pintu palka.</font>
+
+448
+00:25:16,515 --> 00:25:18,129
+<font face="Calibri Light">Lalu pisaunya mengalir lewat pipa air,</font>
+
+449
+00:25:18,429 --> 00:25:20,780
+<font face="Calibri Light">terjebak di sana dan boom.</font>
+
+450
+00:25:21,380 --> 00:25:22,433
+<font face="Calibri Light">Astaga.</font>
+
+451
+00:25:22,433 --> 00:25:23,861
+<font face="Calibri Light">Kau tidak berpikir...</font>
+
+452
+00:25:24,261 --> 00:25:26,394
+<font face="Calibri Light">Kau tidak berpikir bahwa ini
+senjata si pembunuh?</font>
+
+453
+00:25:43,498 --> 00:25:45,892
+<font face="Calibri Light">Kita harus membuat
+alat penyulingan air ini bekerja.</font>
+
+454
+00:25:45,892 --> 00:25:49,069
+<font face="Calibri Light">Stark, cek tekanan pada katup 42J.</font>
+
+455
+00:25:49,069 --> 00:25:52,115
+<font face="Calibri Light">Novak, laporkan pipa masuk 2 dan 4.</font>
+
+456
+00:25:59,862 --> 00:26:04,345
+<font face="Calibri Light">Kau baik-baik saja, bos?/
+Tidak. Tidak juga.</font>
+
+457
+00:26:07,566 --> 00:26:11,657
+<font face="Calibri Light">Eva, aku tahu mengenai
+hubunganmu dan Harris.</font>
+
+458
+00:26:11,657 --> 00:26:14,050
+<font face="Calibri Light">Aku tidak buta.
+Kita semua tahu.</font>
+
+459
+00:26:14,050 --> 00:26:15,896
+<font face="Calibri Light">Dan kita mengerti jika kau butuh waktu.../</font>
+
+460
+00:26:15,896 --> 00:26:17,925
+<font face="Calibri Light">Aku tak punya banyak waktu.</font>
+
+461
+00:26:18,925 --> 00:26:21,318
+<font face="Calibri Light">Jika kita tidak bisa membuat alat ini bekerja,
+kita semua akan mati kehausan.</font>
+
+462
+00:26:21,318 --> 00:26:25,845
+<font face="Calibri Light">Eva, kau sedang berduka.
+Akan kutangani ini.</font>
+
+463
+00:26:25,845 --> 00:26:29,805
+<font face="Calibri Light">Kau yakin? Lalu kenapa
+alatnya belum juga bekerja?</font>
+
+464
+00:26:29,805 --> 00:26:31,851
+<font face="Calibri Light">Kita semua sedang mengerjakannya.</font>
+
+465
+00:26:31,851 --> 00:26:35,332
+<font face="Calibri Light">Aku menghargai perhatianmu,
+Sasha. Sungguh.</font>
+
+466
+00:26:35,332 --> 00:26:38,031
+<font face="Calibri Light">Tapi kau tak bisa memperbaikinya.</font>
+
+467
+00:26:38,031 --> 00:26:39,685
+<font face="Calibri Light">Kaupun juga.</font>
+
+468
+00:26:39,685 --> 00:26:42,122
+<font face="Calibri Light">Semua orang yang bisa
+telah meninggal.</font>
+
+469
+00:26:42,122 --> 00:26:43,906
+<font face="Calibri Light">Aku yang selanjutnya.</font>
+
+470
+00:26:43,906 --> 00:26:46,343
+<font face="Calibri Light">Dan jangan tersinggung, tapi
+akulah yang paling tahu</font>
+
+471
+00:26:46,343 --> 00:26:48,128
+<font face="Calibri Light">tentang mesin di pesawat ini.</font>
+
+472
+00:26:48,128 --> 00:26:51,305
+<font face="Calibri Light">Jadi bekerjalah atau jangan mengganggu.</font>
+
+473
+00:27:04,318 --> 00:27:07,382
+<font face="Calibri Light">Garnet.
+Bisa bicara.</font>
+
+474
+00:27:07,452 --> 00:27:08,954
+<font face="Calibri Light">Pastikan kau utamakan itu.</font>
+
+475
+00:27:11,984 --> 00:27:13,153
+<font face="Calibri Light">Ada apa?</font>
+
+476
+00:27:13,153 --> 00:27:15,982
+{\an1}<font face="Candara Light">(E.V.A : Extravehicular Activity)
+Aktivitas yang dilakukan seorang astronot di luar angkasa
+di luar pesawat ruang angkasa. Contohnya: Spacewalks.</font>
+
+477
+00:27:13,153 --> 00:27:15,982
+{\an8}<font face="Calibri Light">Hanya ingin memberitahumu.
+Aku akan melakukan lagi E.V.A.</font>
+
+478
+00:27:15,982 --> 00:27:18,158
+<font face="Calibri Light">Apa? Kenapa?/ Untuk mencaritahu apa
+yang menghantam pesawat.</font>
+
+479
+00:27:18,158 --> 00:27:21,552
+<font face="Calibri Light">Apa lagi?/
+Seorang pria meninggal sebelumnya,</font>
+
+480
+00:27:21,552 --> 00:27:23,380
+<font face="Calibri Light">dan kau beruntung
+bisa kembali hidup-hidup.</font>
+
+481
+00:27:23,380 --> 00:27:24,643
+<font face="Calibri Light">Itu sangat berbahaya./
+Apa?</font>
+
+482
+00:27:24,643 --> 00:27:26,557
+<font face="Calibri Light">Dengar, kita perlu tahu apa
+yang telah menghantam pesawat.</font>
+
+483
+00:27:26,557 --> 00:27:29,082
+<font face="Calibri Light">Tugaskan orang lain saja. Kau terlalu
+penting, kau satu-satunya navigator kita.</font>
+
+484
+00:27:29,082 --> 00:27:31,737
+<font face="Calibri Light">Baiklah. Aku yang pergi./
+Kepalamu baru saja terbentur.</font>
+
+485
+00:27:31,737 --> 00:27:33,652
+<font face="Calibri Light">Tugaskan Leighton./
+Apa? Tidak, tidak, tidak.</font>
+
+486
+00:27:33,652 --> 00:27:36,219
+<font face="Calibri Light">Aku takkan mengirim orang lain untuk
+melakukan tugas yang takkan kulakukan sendiri.</font>
+
+487
+00:27:36,219 --> 00:27:38,700
+<font face="Calibri Light">Aku tidak mau membawa siapapun lagi
+dengan resiko kehilangan orang lagi.</font>
+
+488
+00:27:38,700 --> 00:27:42,134
+<font face="Calibri Light">Tapi kau tidak masalah jika
+kau sendiri yang meninggal.</font>
+
+489
+00:27:45,433 --> 00:27:47,796
+<font face="Calibri Light">Tolong jangan melakukannya./
+Apa itu perintah?</font>
+
+490
+00:27:47,796 --> 00:27:50,669
+<font face="Calibri Light">Terserah kau menyebutnya apa.
+Hanya saja, jangan lakukan.</font>
+
+491
+00:27:50,669 --> 00:27:54,237
+<font face="Calibri Light">Janjilah padaku./
+Baiklah</font>
+
+492
+00:28:02,842 --> 00:28:05,809
+<font face="Calibri Light">Kau akan melakukannya, bukan?/
+Oh, tentu. Setelah pergantian jaga.</font>
+
+493
+00:28:14,344 --> 00:28:15,650
+<font face="Calibri Light">Bolehkah?</font>
+
+494
+00:28:19,915 --> 00:28:22,265
+<font face="Calibri Light">Jadi, apa pisau yang kutemukan
+adalah senjata si pembunuh?</font>
+
+495
+00:28:26,443 --> 00:28:29,403
+<font face="Calibri Light">Apa kau menemukan
+sidik jarinya? DNA?</font>
+
+496
+00:28:31,448 --> 00:28:35,191
+<font face="Calibri Light">Kita tidak punya sebuah
+Laboratorium di pesawat.</font>
+
+497
+00:28:35,191 --> 00:28:38,673
+<font face="Calibri Light">Benar, maaf.
+Tentu tidak punya.</font>
+
+498
+00:28:38,673 --> 00:28:41,371
+<font face="Calibri Light">Tapi, ya, itu adalah senjata pembunuh./
+Bagaimana kau tahu?</font>
+
+499
+00:28:42,371 --> 00:28:46,637
+<font face="Calibri Light">Ujung pisaunya cocok dengan bentuk
+luka di tenggorokan korban.</font>
+
+500
+00:28:46,637 --> 00:28:48,596
+<font face="Calibri Light">Aku sudah mengecek daftar bawaan.
+Tak ada pisau disana</font>
+
+501
+00:28:48,596 --> 00:28:51,207
+<font face="Calibri Light">yang seharusnya cocok dengan
+bentuk pisau yang ada di pesawat.</font>
+
+502
+00:28:51,207 --> 00:28:53,209
+<font face="Calibri Light">Jadi seseorang menyelundupkannya?</font>
+
+503
+00:28:53,209 --> 00:28:55,864
+<font face="Calibri Light">Artinya itu sudah direncanakan?/
+Aku tidak tahu</font>
+
+504
+00:29:04,046 --> 00:29:07,833
+<font face="Calibri Light">Memangnya kau boleh minum air?/
+Aku kehausan.</font>
+
+505
+00:29:07,833 --> 00:29:10,792
+<font face="Calibri Light">Itu salahmu kita kehilangan banyak air.
+Kau dan kebun bodohmu.</font>
+
+506
+00:29:10,792 --> 00:29:14,840
+<font face="Calibri Light">Tolong. Kembalikan./
+Kembalikan itu.</font>
+
+507
+00:29:14,840 --> 00:29:17,146
+<font face="Calibri Light">Coba saja./
+Jika itu maumu.</font>
+
+508
+00:29:35,164 --> 00:29:36,383
+<font face="Calibri Light">Hentikan.</font>
+
+509
+00:29:55,139 --> 00:29:56,381
+<font face="Calibri Light">Terima kasih.</font>
+
+510
+00:30:26,973 --> 00:30:29,310
+<font face="Calibri Light">Kusarankan kita kurung mereka semua
+sebelum mereka berbuat ulah lagi.</font>
+
+511
+00:30:29,310 --> 00:30:31,860
+<font face="Calibri Light">Apa kau akan mengurungku juga?
+Aku juga memukulnya.</font>
+
+512
+00:30:31,960 --> 00:30:34,180
+<font face="Calibri Light">Mau dikurung dimana mereka?
+Kita tidak punya penjara.</font>
+
+513
+00:30:34,180 --> 00:30:36,952
+<font face="Calibri Light">Tahanan yang sebelumnya,
+kita kurung di lemari penyimpanan.</font>
+
+514
+00:30:36,952 --> 00:30:38,706
+<font face="Calibri Light">Yang mana tidak berakhir baik baginya.</font>
+
+515
+00:30:38,706 --> 00:30:42,122
+<font face="Calibri Light">Selain itu, saat ini adalah situasi dimana
+kita semua harus bekerja sama.</font>
+
+516
+00:30:42,122 --> 00:30:43,380
+<font face="Calibri Light">Kita perlu semua orang melakukan tugasnya.</font>
+
+517
+00:30:43,380 --> 00:30:46,266
+<font face="Calibri Light">Kita tak bisa ambil resiko jika mereka
+berulah lagi. Bisa terjadi kekacauan.</font>
+
+518
+00:30:46,266 --> 00:30:50,152
+<font face="Calibri Light">Dengar, kita semua kelelahan,
+kurang tidur, makan, kehausan.</font>
+
+519
+00:30:50,152 --> 00:30:52,502
+<font face="Calibri Light">Perilaku macam ini hanyalah suatu gejala.</font>
+
+520
+00:30:52,502 --> 00:30:54,374
+<font face="Calibri Light">Kita perlu menangani penyebabnya.</font>
+
+521
+00:30:55,374 --> 00:30:57,720
+<font face="Calibri Light">Dan bagaimana kau akan melakukannya?</font>
+
+522
+00:31:15,077 --> 00:31:16,260
+<font face="Calibri Light">Disitu kau rupanya.</font>
+
+523
+00:31:17,100 --> 00:31:19,660
+<font face="Calibri Light">Senang rasanya melihat
+salah satu dari kita bisa istirahat.</font>
+
+524
+00:31:19,660 --> 00:31:23,098
+<font face="Calibri Light">Benar, tidur itu sangat penting.</font>
+
+525
+00:31:23,098 --> 00:31:27,059
+<font face="Calibri Light">Kulit cerah, rambut berkilau,
+mata lebih segar.</font>
+
+526
+00:31:27,059 --> 00:31:28,145
+<font face="Calibri Light">Kau juga butuh tidur.</font>
+
+527
+00:31:28,146 --> 00:31:30,744
+<font face="Calibri Light">Akankah itu menyelamatkan semua
+orang yang ada di pesawat ini?</font>
+
+528
+00:31:30,845 --> 00:31:32,629
+<font face="Calibri Light">Tidak ada salahnya merasa
+sedikit egois,kan?</font>
+
+529
+00:31:32,629 --> 00:31:35,698
+<font face="Calibri Light">Dr. Brandice.../
+Panggil saja Cat.</font>
+
+530
+00:31:36,198 --> 00:31:38,292
+<font face="Calibri Light">Aku rasa kau butuh seorang teman.</font>
+
+531
+00:31:38,692 --> 00:31:39,928
+<font face="Calibri Light">Sepertinya kau tidak menyadarinya.</font>
+
+532
+00:31:39,928 --> 00:31:43,932
+<font face="Calibri Light">tapi para kru mulai kelelahan
+di pesawat ini.</font>
+
+533
+00:31:44,032 --> 00:31:45,891
+<font face="Calibri Light">Baru saja terjadi keributan di ruang makan.</font>
+
+534
+00:31:45,891 --> 00:31:47,644
+<font face="Calibri Light">Semua orang sedang berjuang di pesawat ini,</font>
+
+535
+00:31:47,644 --> 00:31:49,603
+<font face="Calibri Light">dan kau di sini malah tidur cantik?</font>
+
+536
+00:31:49,603 --> 00:31:51,466
+<font face="Calibri Light">Apalagi memang yang
+harus kulakukan?</font>
+
+537
+00:31:51,866 --> 00:31:54,534
+<font face="Calibri Light">Aku secara resmi menunjukmu sebagai
+Kepala Kesehatan Mental di pesawat.</font>
+
+538
+00:31:54,534 --> 00:31:56,871
+<font face="Calibri Light">Kau bisa memulai sesi dengan
+siapapun yang membutuhkan.</font>
+
+539
+00:31:58,046 --> 00:32:01,006
+<font face="Calibri Light">Apa? Tunggu dulu.</font>
+
+540
+00:32:01,006 --> 00:32:02,572
+<font face="Calibri Light">Aku merasa tersanjung,</font>
+
+541
+00:32:02,572 --> 00:32:05,010
+<font face="Calibri Light">tapi aku jelas tidak
+memenuhi syarat untuk itu.</font>
+
+542
+00:32:05,010 --> 00:32:07,390
+<font face="Calibri Light">Aku ada di pesawat untuk menjadi
+wajah selebriti dari misi ini.</font>
+
+543
+00:32:07,390 --> 00:32:10,877
+<font face="Calibri Light">Jaga-jaga jika kau sudah lupa, pesawat ini
+tidak sepenuhnya siap dengan kamera.</font>
+
+544
+00:32:11,177 --> 00:32:12,371
+<font face="Calibri Light">Aku butuh kau di bidang lain.</font>
+
+545
+00:32:12,372 --> 00:32:14,670
+<font face="Calibri Light">Dengar, aku dulu seorang
+spesialis hubungan di acara TV.</font>
+
+546
+00:32:14,671 --> 00:32:17,674
+<font face="Calibri Light">Aku berbicara tentang sex
+dan dengan siapa dan seberapa sering.</font>
+
+547
+00:32:17,674 --> 00:32:19,380
+<font face="Calibri Light">Dan kau sudah
+menerbitkan berapa buku?</font>
+
+548
+00:32:19,580 --> 00:32:21,940
+<font face="Calibri Light">Buku untuk diri sendiri.
+Kau juga bisa menulisnya.</font>
+
+549
+00:32:21,940 --> 00:32:24,464
+<font face="Calibri Light">Anak lima tahun juga bisa.
+Aku tidak memenuhi syarat.</font>
+
+550
+00:32:24,464 --> 00:32:26,683
+<font face="Calibri Light">Aku bahkan tidak tahu
+harus mulai darimana.</font>
+
+551
+00:32:26,683 --> 00:32:28,120
+<font face="Calibri Light">Aku melihat caramu
+menangani Eva.</font>
+
+552
+00:32:28,120 --> 00:32:30,383
+<font face="Calibri Light">Kau mahir. Ya./
+Tadi?</font>
+
+553
+00:32:30,383 --> 00:32:32,124
+<font face="Calibri Light">Aku hanya membantunya.
+Aku berbohong.</font>
+
+554
+00:32:32,124 --> 00:32:35,059
+<font face="Calibri Light">Pacarnya saja aku tidak tahu yang mana.
+Tidak pernah pergi ke taman itu.</font>
+
+555
+00:32:35,060 --> 00:32:37,309
+<font face="Calibri Light">Teruslah membantu.
+Kau mahir melakukannya.</font>
+
+556
+00:32:38,869 --> 00:32:40,088
+<font face="Calibri Light">Dan jika aku menolak?</font>
+
+557
+00:32:42,599 --> 00:32:45,994
+<font face="Calibri Light">Dengar, kita berdua tahu alasan
+sebenarnya kau ada di pesawat ini</font>
+
+558
+00:32:46,094 --> 00:32:47,704
+<font face="Calibri Light">karena kau tahu orang
+dengan jabatan tinggi.</font>
+
+559
+00:32:47,704 --> 00:32:50,185
+<font face="Calibri Light">Orang dengan jabatan tertinggi
+yang kau tahu sekarang adalah aku,</font>
+
+560
+00:32:50,185 --> 00:32:52,492
+<font face="Calibri Light">dan aku katakan padamu,
+kau akan melakukan yang kuminta</font>
+
+561
+00:32:52,492 --> 00:32:53,667
+<font face="Calibri Light">mau atau tidak mau.</font>
+
+562
+00:32:53,667 --> 00:32:55,930
+<font face="Calibri Light">Aku bisa saja membuatmu bekerja di</font>
+
+563
+00:32:55,930 --> 00:32:58,297
+<font face="Calibri Light">bagian pengelolaan sampah
+jika memang itu mau-mu.</font>
+
+564
+00:32:59,238 --> 00:33:00,417
+<font face="Calibri Light">Menjijikan.</font>
+
+565
+00:33:01,117 --> 00:33:03,538
+<font face="Calibri Light">Baiklah.
+Akan kulakukan.</font>
+
+566
+00:33:03,938 --> 00:33:06,340
+<font face="Calibri Light">Dan dari apa yang kulihat sekarang,
+kau akan menjadi pasien pertamaku.</font>
+
+567
+00:33:06,340 --> 00:33:07,907
+<font face="Calibri Light">Kau tidak tahu apa-apa.</font>
+
+568
+00:33:10,901 --> 00:33:15,080
+<font face="Calibri Light">Tapi, jika aku akan melakukannya,</font>
+
+569
+00:33:15,080 --> 00:33:17,169
+<font face="Calibri Light">ada beberapa hal yang kubutuhkan.</font>
+
+570
+00:33:24,089 --> 00:33:25,873
+<font face="Calibri Light">Tetap waspada dengan struktur penahannya.</font>
+
+571
+00:33:25,873 --> 00:33:27,657
+<font face="Calibri Light"><i>Aku tak khawatir dengan itu.</i></font>
+
+572
+00:33:27,657 --> 00:33:29,311
+<font face="Calibri Light"><i>Satu-satunya bagian
+yang rusak sudah hancur.</i></font>
+
+573
+00:33:29,311 --> 00:33:30,747
+<font face="Calibri Light">Tetaplah waspada
+apapun yang terjadi.</font>
+
+574
+00:33:30,747 --> 00:33:32,784
+<font face="Calibri Light">Aku sedang memantau
+stabilitas tegangan di sini.</font>
+
+575
+00:33:33,084 --> 00:33:35,000
+<font face="Calibri Light"><i>Sejauh ini, terlihat baik-baik saja.</i></font>
+
+576
+00:33:43,325 --> 00:33:46,589
+<font face="Calibri Light"><i>Baiklah, aku sudah sampai.</i></font>
+
+577
+00:33:48,765 --> 00:33:51,377
+<font face="Calibri Light">Kau tahu, ini tidak terlihat
+seperti bekas benturan.</font>
+
+578
+00:33:53,335 --> 00:33:56,947
+<font face="Calibri Light"><i>Kebanyakan bajanya meleleh,
+seperti meleleh karena matahari.</i></font>
+
+579
+00:33:56,947 --> 00:34:00,326
+<font face="Calibri Light"><i>Ada semacam benda kristal
+yang terjepit di sana.</i></font>
+
+580
+00:34:01,126 --> 00:34:03,384
+<font face="Calibri Light">Aku bisa lihat beberapa.
+Terlihat seperti sebuah berlian.</font>
+
+581
+00:34:17,142 --> 00:34:18,186
+<font face="Calibri Light">Apa-apaan ini?</font>
+
+582
+00:34:20,145 --> 00:34:21,450
+<font face="Calibri Light">Benar, benda ini seperti berlian.</font>
+
+583
+00:34:23,365 --> 00:34:25,628
+<font face="Calibri Light"><i>Memeriksa daya tahannya.</i></font>
+
+584
+00:34:29,371 --> 00:34:30,416
+<font face="Calibri Light">Oh, itu tidak terlihat baik.</font>
+
+585
+00:34:33,854 --> 00:34:36,596
+<font face="Calibri Light">Kembali ke pintu masuk./
+<i>Itu melelehkan sarung tanganku.</i></font>
+
+586
+00:34:36,597 --> 00:34:38,467
+{\an1}<font face="Candara Light">(EMU: Extravehicular Mobility Unit.)
+Pakaian antariksa antropomorfik.</font>
+
+587
+00:34:36,596 --> 00:34:38,467
+{\an8}<font face="Calibri Light">Kembali ke sini sekarang
+sebelum itu merusak EMU-mu.</font>
+
+588
+00:34:38,467 --> 00:34:41,296
+<font face="Calibri Light">Lane, jari sarung tangannya
+hampir meleleh habis.</font>
+
+589
+00:34:41,296 --> 00:34:43,951
+<font face="Calibri Light">Brice, tekan pergelangan tanganmu,
+tetap jaga agar pakaianmu tidak rusak.</font>
+
+590
+00:34:43,951 --> 00:34:47,172
+<font face="Calibri Light">Kulitmu akan membeku./
+Aku segera datang.</font>
+
+591
+00:34:58,344 --> 00:35:01,120
+<font face="Calibri Light">Tetap tekan pergelanganmu.
+Aku sedang memberi tekanan udara sekarang.</font>
+
+592
+00:35:04,580 --> 00:35:06,582
+<font face="Calibri Light">Tidak!</font>
+
+593
+00:35:06,582 --> 00:35:08,106
+<font face="Calibri Light">Jangan, jangan mendekat.</font>
+
+594
+00:35:10,412 --> 00:35:11,892
+<font face="Calibri Light">Sialan.</font>
+
+595
+00:35:14,764 --> 00:35:15,996
+<font face="Calibri Light">Aku benci ketika Garnet benar.</font>
+
+596
+00:35:21,945 --> 00:35:24,648
+<font face="Calibri Light">Kau mengalami radang dingin
+yang cukup parah</font>
+
+597
+00:35:24,648 --> 00:35:27,647
+<font face="Calibri Light">dan kau kehilangan
+hampir tiga lapisan kulit.</font>
+
+598
+00:35:27,647 --> 00:35:29,001
+<font face="Calibri Light">Tapi kulitnya akan
+tumbuh seperti baru.</font>
+
+599
+00:35:29,001 --> 00:35:30,841
+<font face="Calibri Light">Kau yakin benda itu
+tak ada lagi dalam diriku?</font>
+
+600
+00:35:30,841 --> 00:35:31,879
+<font face="Calibri Light">Sudah tidak ada.</font>
+
+601
+00:35:31,903 --> 00:35:33,478
+<font face="Calibri Light">Apa kau tahu penyebabnya apa, Dok?</font>
+
+602
+00:35:33,479 --> 00:35:34,530
+<font face="Calibri Light">Semacam cairan asam?</font>
+
+603
+00:35:34,554 --> 00:35:37,154
+<font face="Calibri Light">Tidak tahu. Aku belum pernah
+melihat sesuatu yang seperti ini.</font>
+
+604
+00:35:37,330 --> 00:35:39,559
+<font face="Calibri Light">Apapun itu, jangan sampai
+bersentuhan dengan kulit manusia,</font>
+
+605
+00:35:39,559 --> 00:35:42,301
+<font face="Calibri Light">atau aku akan melihat
+Letnan. Brice kehilangan kulitnya.</font>
+
+606
+00:35:42,401 --> 00:35:44,403
+<font face="Calibri Light">Kau sudah berjanji padaku
+kau takkan melakukan E.V.A</font>
+
+607
+00:35:44,403 --> 00:35:46,318
+<font face="Calibri Light">Aku bohong.
+Kita hanya mencoba memberi para kru</font>
+
+608
+00:35:46,318 --> 00:35:47,623
+<font face="Calibri Light">jawaban yang
+mereka pantas dapatkan.</font>
+
+609
+00:35:47,623 --> 00:35:49,234
+<font face="Calibri Light">Dan apa kau sudah dapat jawabannya?</font>
+
+610
+00:35:49,234 --> 00:35:50,278
+<font face="Calibri Light">Yah, sayangnya masih belum.</font>
+
+611
+00:35:50,278 --> 00:35:51,350
+<font face="Calibri Light">Tapi kau tahu yang sudah kau lakukan?</font>
+
+612
+00:35:51,350 --> 00:35:54,500
+<font face="Calibri Light">Kau menunjukkan pada mereka bahwa
+bagaimana pemimpin mereka lepas kendali.</font>
+
+613
+00:35:54,500 --> 00:35:56,197
+<font face="Calibri Light">Jika kita tak bisa saling menghargai,
+saling percaya,</font>
+
+614
+00:35:56,197 --> 00:35:57,938
+<font face="Calibri Light">jika kita tak bisa bekerja sama...</font>
+
+615
+00:36:00,941 --> 00:36:02,203
+<font face="Calibri Light">lalu kenapa mereka harus
+percaya pada kita</font>
+
+616
+00:36:02,203 --> 00:36:04,466
+<font face="Calibri Light">untuk memastikan bahwa
+mereka bisa bertahan hidup di sini?</font>
+
+617
+00:36:04,466 --> 00:36:06,368
+<font face="Calibri Light">Sekarang, aku tidak tahu denganmu,</font>
+
+618
+00:36:06,368 --> 00:36:08,509
+<font face="Calibri Light">tapi aku belum tidur selama hampir 52jam.</font>
+
+619
+00:36:08,509 --> 00:36:10,072
+<font face="Calibri Light">Sama./
+Aku juga.</font>
+
+620
+00:36:10,072 --> 00:36:12,205
+<font face="Calibri Light">Hanya 52jam?
+Belum seberapa.</font>
+
+621
+00:36:12,305 --> 00:36:16,565
+<font face="Calibri Light">Kekurangan tidur pasti
+penyebab utama perilaku buruk kita.</font>
+
+622
+00:36:16,565 --> 00:36:18,480
+<font face="Calibri Light">Aku menyarankan kita
+harus beristirahat sebentar.</font>
+
+623
+00:36:18,480 --> 00:36:20,165
+<font face="Calibri Light">Aku setuju kalau itu.</font>
+
+624
+00:36:20,165 --> 00:36:21,744
+<font face="Calibri Light">Kau harus membiarkan
+petugas lain istirahat juga.</font>
+
+625
+00:36:23,644 --> 00:36:24,857
+<font face="Calibri Light">Perhatian, semua petugas.</font>
+
+626
+00:36:24,857 --> 00:36:27,010
+<font face="Calibri Light">Di sini Letnan. Garnet mewakili
+Letnan. Lane</font>
+
+627
+00:36:27,010 --> 00:36:29,709
+<font face="Calibri Light">dan Letnan. Brice.</font>
+
+628
+00:36:29,709 --> 00:36:34,179
+<font face="Calibri Light">Kita hanya ingin mengatakan bahwa
+kita sangat bangga pada kalian</font>
+
+629
+00:36:34,179 --> 00:36:36,006
+<font face="Calibri Light">dan kerja keras kalian semua.</font>
+
+630
+00:36:36,106 --> 00:36:37,934
+<font face="Calibri Light">Semuanya berjalan normal untuk sekarang,</font>
+
+631
+00:36:37,934 --> 00:36:40,546
+<font face="Calibri Light">jadi, petugas 1 dan 2 yang berjaga,
+bisa pergi,</font>
+
+632
+00:36:40,546 --> 00:36:43,984
+<font face="Calibri Light">istirahatlah selama 5jam,
+dan lalu kita akan bergantian jaga.</font>
+
+633
+00:36:46,943 --> 00:36:49,542
+<font face="Calibri Light">Kita akan mengadakan
+rapat dalam 5jam kedepan.</font>
+
+634
+00:36:49,542 --> 00:36:50,956
+<font face="Calibri Light">Semuanya setuju?</font>
+
+635
+00:36:55,735 --> 00:36:58,564
+<font face="Calibri Light">Aku tidak.
+Aku punya pasien.</font>
+
+636
+00:36:59,364 --> 00:37:02,872
+<font face="Calibri Light">Beberapa dari kita jaga pertama./
+Tetap bekerja.</font>
+
+637
+00:37:02,872 --> 00:37:05,745
+<font face="Calibri Light">Kita semua kepanasan
+dan kelelahan dan kehausan.</font>
+
+638
+00:37:07,747 --> 00:37:09,052
+<font face="Calibri Light">Kau akan terus kehausan</font>
+
+639
+00:37:09,052 --> 00:37:10,750
+<font face="Calibri Light">jika kita tidak bisa
+membuat sistemnya bekerja</font>
+
+640
+00:37:10,750 --> 00:37:12,665
+<font face="Calibri Light">untuk membuat air yang sudah tumpah</font>
+
+641
+00:37:12,665 --> 00:37:14,580
+<font face="Calibri Light">ke lantai di ruang perkebunan,</font>
+
+642
+00:37:14,580 --> 00:37:17,452
+<font face="Calibri Light">air toilet, air limbah
+dan membuat semuanya dapat diminum.</font>
+
+643
+00:37:17,452 --> 00:37:20,542
+<font face="Calibri Light">Jika kita bisa membuat
+kapasitasnya mencapai 90%,</font>
+
+644
+00:37:20,542 --> 00:37:22,501
+<font face="Calibri Light">itu bisa membuat kita bertahan
+selama beberapa minggu,</font>
+
+645
+00:37:22,501 --> 00:37:23,763
+<font face="Calibri Light">yang mana artinya kita akan</font>
+
+646
+00:37:23,763 --> 00:37:26,374
+<font face="Calibri Light">kehabisan air dalam dua hari.</font>
+
+647
+00:37:31,161 --> 00:37:32,902
+<font face="Calibri Light">Ya, baiklah.
+Kau benar.</font>
+
+648
+00:37:32,902 --> 00:37:37,037
+<font face="Calibri Light">Bagus. Sekarang lepaskan tekanan
+pada katup 2A.</font>
+
+649
+00:37:41,607 --> 00:37:45,219
+<font face="Calibri Light">Karena kau sedang terluka, kubiarkan kau
+tidur di kasur dan aku di lantai.</font>
+
+650
+00:37:45,219 --> 00:37:48,614
+<font face="Calibri Light">Kaulah yang kepalanya sedang terluka./
+Tidur saja di kasur.</font>
+
+651
+00:37:48,614 --> 00:37:50,964
+<font face="Calibri Light">Oh, kau pria yang baik sekali, kawan.</font>
+
+652
+00:37:57,536 --> 00:38:00,168
+<font face="Calibri Light">Apa kalian pria tampan
+di sini untuk pertemuan?</font>
+
+653
+00:38:00,168 --> 00:38:02,116
+<font face="Calibri Light">Kita di sini mau tidur sebentar.</font>
+
+654
+00:38:02,340 --> 00:38:03,715
+<font face="Calibri Light">Apa yang kau lakukan di sini?</font>
+
+655
+00:38:03,716 --> 00:38:05,200
+<font face="Calibri Light">Kalau kalian di sini bukan untuk pertemuan,</font>
+
+656
+00:38:05,200 --> 00:38:08,530
+<font face="Calibri Light">maka aku minta maaf,
+tapi kalian harus pergi.</font>
+
+657
+00:38:09,230 --> 00:38:12,202
+<font face="Calibri Light">Siapa bilang kau boleh pindah kemari?/
+Komandan Garnet.</font>
+
+658
+00:38:12,202 --> 00:38:13,539
+<font face="Calibri Light">Tentu saja./
+Letnan. Garnet.</font>
+
+659
+00:38:13,539 --> 00:38:14,814
+<font face="Calibri Light">Dia memintarku mengadakan
+sesi terapi</font>
+
+660
+00:38:14,814 --> 00:38:16,155
+<font face="Calibri Light">dengan para kru,
+dan aku bilang padanya</font>
+
+661
+00:38:16,155 --> 00:38:18,300
+<font face="Calibri Light">Aku membutuhkan ruangan
+pribadi dalam melakukannya.</font>
+
+662
+00:38:18,600 --> 00:38:20,385
+<font face="Calibri Light">Dia tak punya hak untuk
+memberimu ruangan ini.</font>
+
+663
+00:38:20,385 --> 00:38:21,951
+<font face="Calibri Light">Yah, tetap saja, aku sudah di sini.</font>
+
+664
+00:38:21,951 --> 00:38:24,258
+<font face="Calibri Light">Jadi, jika kalian mau
+menghabiskan waktu di ruangan ini,</font>
+
+665
+00:38:24,258 --> 00:38:27,087
+<font face="Calibri Light">Kusarankan kalian membuat janji temu.</font>
+
+666
+00:38:27,087 --> 00:38:30,046
+<font face="Calibri Light">Aku bisa menangani kalian satu-satu
+atau berdua sekaligus.</font>
+
+667
+00:38:30,646 --> 00:38:32,279
+<font face="Calibri Light">Kutahu kau akan mengatakannya.</font>
+
+668
+00:38:50,218 --> 00:38:54,288
+<font face="Calibri Light">Kau keberatan, James?
+Aku hanya punya waktu tidur 5jam.</font>
+
+669
+00:38:54,288 --> 00:38:57,987
+<font face="Calibri Light">Maafkan aku, Jelena. Bisakah kau geser
+sedikit dan berbagi kasurmu?</font>
+
+670
+00:38:57,987 --> 00:39:01,164
+<font face="Calibri Light">Aku tak memakan ruang banyak./
+Tak ada maksud lain?</font>
+
+671
+00:39:01,164 --> 00:39:04,254
+<font face="Calibri Light">Tidak, tidak, tidak, tidak.</font>
+
+672
+00:39:04,254 --> 00:39:06,561
+<font face="Calibri Light">Dengat, aku hanya..
+Aku benar-benar butuh tidur.</font>
+
+673
+00:39:21,271 --> 00:39:23,273
+<font face="Calibri Light">Kau boleh ambil ranjangku, Letnan.</font>
+
+674
+00:39:23,273 --> 00:39:24,884
+<font face="Calibri Light">Oh tidak apa-apa.
+Kau juga butuh tidur.</font>
+
+675
+00:39:24,884 --> 00:39:28,148
+<font face="Calibri Light">Tidak, tak masalah.
+Aku akan tidur di ruang perkebunan.</font>
+
+676
+00:39:31,064 --> 00:39:33,153
+<font face="Calibri Light">Terima kasih, nak.</font>
+
+677
+00:39:50,649 --> 00:39:52,302
+<font face="Calibri Light">Berapa tekanannya?/
+8psi</font>
+
+678
+00:39:52,302 --> 00:39:54,392
+<font face="Calibri Light">Sedikit kecil tapi masih cukup./
+Mari naikkan.</font>
+
+679
+00:39:59,875 --> 00:40:01,442
+<font face="Calibri Light">Awas tangan kalian.</font>
+
+680
+00:40:04,489 --> 00:40:07,100
+<font face="Calibri Light">30psi. 35.</font>
+
+681
+00:40:07,100 --> 00:40:10,233
+<font face="Calibri Light">37 dan terus bertahan.</font>
+
+682
+00:40:11,931 --> 00:40:13,193
+<font face="Calibri Light">Bisakah kita naikkan lagi?</font>
+
+683
+00:40:15,325 --> 00:40:17,284
+<font face="Calibri Light">Kupikir tidak.</font>
+
+684
+00:40:42,178 --> 00:40:44,180
+<font face="Calibri Light">Aku harap kau mau berada di sini</font>
+
+685
+00:40:44,180 --> 00:40:46,792
+<font face="Calibri Light">di sebelahku, seperti yang kuminta.</font>
+
+686
+00:40:46,792 --> 00:40:48,968
+<font face="Calibri Light">Karena saat ini aku benar-benar butuh saran</font>
+
+687
+00:40:48,968 --> 00:40:51,579
+<font face="Calibri Light">dari seseorang yang memahami situasiku.</font>
+
+688
+00:41:02,315 --> 00:41:04,766
+<font face="Calibri Light"><i>Tolong, para dewan ke pusat komunikasi,</i></font>
+
+689
+00:41:04,766 --> 00:41:06,072
+<font face="Calibri Light"><i>segera.</i></font>
+
+690
+00:41:08,204 --> 00:41:11,320
+<font face="Calibri Light">Bagaimana Tanganmu?/
+Tenang, aku baik-baik saja.</font>
+
+691
+00:41:18,911 --> 00:41:22,610
+<font face="Calibri Light">Terima kasih semuanya sudah datang.
+Kuharap aku tidak mengganggu kalian.</font>
+
+692
+00:41:22,610 --> 00:41:24,699
+<font face="Calibri Light">Aku baru saja bermimpi
+mandi di bak air dingin.</font>
+
+693
+00:41:24,699 --> 00:41:27,789
+<font face="Calibri Light">Yah, kalau aku bermimpi sedang berenang./
+Ada apa ini, Eva?</font>
+
+694
+00:41:27,789 --> 00:41:30,009
+<font face="Calibri Light">Kita sudah bisa membuat
+alat penyulingan air bekerja.</font>
+
+695
+00:41:30,009 --> 00:41:33,360
+<font face="Calibri Light">Bagus./
+Jangan terlalu senang.</font>
+
+696
+00:41:33,360 --> 00:41:36,232
+<font face="Calibri Light">Kia hanya bisa mencapai 62%
+tingkat ke-efisiensian-nya.</font>
+
+697
+00:41:36,232 --> 00:41:38,234
+<font face="Calibri Light">Kenapa aku merasa sepertinya
+itu belum cukup?</font>
+
+698
+00:41:38,234 --> 00:41:40,585
+<font face="Calibri Light">Aku berhasil mengambil semua air
+di ruang perkebunan,</font>
+
+699
+00:41:40,585 --> 00:41:42,412
+<font face="Calibri Light">air limbah, air got.</font>
+
+700
+00:41:42,412 --> 00:41:44,110
+<font face="Calibri Light">Aku bahkan menguras sistem pendingin.</font>
+
+701
+00:41:44,110 --> 00:41:46,460
+<font face="Calibri Light">Dengan semua itu,
+kita akhirnya punya,</font>
+
+702
+00:41:46,460 --> 00:41:48,197
+<font face="Calibri Light">air minum mungkin untuk dua hari.</font>
+
+703
+00:41:48,197 --> 00:41:50,812
+<font face="Calibri Light">Jadi itu artinya kita hanya punya
+empat hari sebelum air habis.</font>
+
+704
+00:41:50,812 --> 00:41:53,032
+<font face="Calibri Light">Luar biasa. Karena satu pisau
+dibuang ke tangki air</font>
+
+705
+00:41:53,032 --> 00:41:54,816
+<font face="Calibri Light">akan membunuh kita semua.</font>
+
+706
+00:41:54,816 --> 00:41:57,645
+<font face="Calibri Light">Bagaimana kau tahu itu?/
+Apa?</font>
+
+707
+00:41:57,645 --> 00:42:01,523
+<font face="Calibri Light">Aku belum memberitahu siapapun dimana
+pisaunya ditemukan di tangki air.</font>
+
+708
+00:42:01,823 --> 00:42:02,955
+<font face="Calibri Light">Bagaimana kau tahu?</font>
+
+709
+00:42:09,003 --> 00:42:11,616
+<font face="Calibri Light">Saat kau bilang
+kau mematikan sistem pendingin,</font>
+
+710
+00:42:11,616 --> 00:42:13,574
+<font face="Calibri Light">apa yang kau maksud sistem pendingin mesin?</font>
+
+711
+00:42:13,574 --> 00:42:15,402
+<font face="Calibri Light">Benar./
+Kita akan mati.</font>
+
+712
+00:42:15,402 --> 00:42:17,273
+<font face="Calibri Light">Apa yang sudah kau pikirkan?</font>
+
+713
+00:42:17,273 --> 00:42:19,449
+<font face="Calibri Light">Aku pikir kita bisa terus
+menjalankan mesinnya</font>
+
+714
+00:42:19,449 --> 00:42:21,482
+<font face="Calibri Light">meskipun kita tak tahu mau kemana</font>
+
+715
+00:42:21,482 --> 00:42:24,411
+<font face="Calibri Light">atau kita bisa dapat tambahan
+persediaan air untuk beberapa hari.</font>
+
+716
+00:42:25,430 --> 00:42:27,801
+<font face="Calibri Light">Jadi kau memilih untuk hidup beberapa hari.</font>
+
